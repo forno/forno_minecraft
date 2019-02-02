@@ -1,0 +1,119 @@
+[11:18:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:18:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:18:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:18:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:18:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:18:04] [main/INFO]: Loaded 0 recipes
+[11:18:04] [main/INFO]: Loaded 0 advancements
+[11:18:04] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[11:18:04] [Server thread/INFO]: Loading properties
+[11:18:05] [Server thread/INFO]: Default game type: SURVIVAL
+[11:18:05] [Server thread/INFO]: Generating keypair
+[11:18:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:18:06] [Server thread/INFO]: Using epoll channel type
+[11:18:06] [Server thread/INFO]: Preparing level "world"
+[11:18:06] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[11:18:06] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:18:08] [Server thread/INFO]: Loaded 524 recipes
+[11:18:08] [Server thread/INFO]: Loaded 571 advancements
+[11:18:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:18:22] [Server thread/INFO]: Preparing spawn area: 0%
+[11:18:23] [Server thread/INFO]: Preparing spawn area: 0%
+[11:18:24] [Server thread/INFO]: Preparing spawn area: 0%
+[11:18:25] [Server thread/INFO]: Preparing spawn area: 0%
+[11:18:25] [Server thread/INFO]: Preparing spawn area: 4%
+[11:18:26] [Server thread/INFO]: Preparing spawn area: 4%
+[11:18:26] [Server thread/INFO]: Preparing spawn area: 8%
+[11:18:27] [Server thread/INFO]: Preparing spawn area: 12%
+[11:18:28] [Server thread/INFO]: Preparing spawn area: 16%
+[11:18:28] [Server thread/INFO]: Preparing spawn area: 20%
+[11:18:29] [Server thread/INFO]: Preparing spawn area: 24%
+[11:18:30] [Server thread/INFO]: Preparing spawn area: 28%
+[11:18:30] [Server thread/INFO]: Preparing spawn area: 32%
+[11:18:31] [Server thread/INFO]: Preparing spawn area: 36%
+[11:18:31] [Server thread/INFO]: Preparing spawn area: 40%
+[11:18:32] [Server thread/INFO]: Preparing spawn area: 44%
+[11:18:32] [Server thread/INFO]: Preparing spawn area: 48%
+[11:18:32] [Server thread/INFO]: Preparing spawn area: 52%
+[11:18:33] [Server thread/INFO]: Preparing spawn area: 56%
+[11:18:33] [Server thread/INFO]: Preparing spawn area: 60%
+[11:18:34] [Server thread/INFO]: Preparing spawn area: 64%
+[11:18:34] [Server thread/INFO]: Preparing spawn area: 68%
+[11:18:35] [Server thread/INFO]: Preparing spawn area: 72%
+[11:18:35] [Server thread/INFO]: Preparing spawn area: 76%
+[11:18:36] [Server thread/INFO]: Preparing spawn area: 80%
+[11:18:36] [Server thread/INFO]: Preparing spawn area: 84%
+[11:18:36] [Server thread/INFO]: Preparing spawn area: 88%
+[11:18:37] [Server thread/INFO]: Preparing spawn area: 92%
+[11:18:37] [Server thread/INFO]: Preparing spawn area: 96%
+[11:18:38] [Server thread/INFO]: Preparing spawn area: 100%
+[11:18:38] [Server thread/INFO]: Time elapsed: 16861 ms
+[11:18:38] [Server thread/INFO]: Done (31.909s)! For help, type "help"
+[11:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[11:20:18] [User Authenticator #1/INFO]: UUID of player FORNya is 5402b13f-5462-4416-bfe5-12cea1cec9ea
+[11:20:18] [Server thread/INFO]: FORNya[/192.168.0.100:61025] logged in with entity id 410 at (167.5, 68.0, -99.5)
+[11:20:18] [Server thread/INFO]: FORNya joined the game
+[11:20:22] [Server thread/INFO]: FORNya lost connection: Disconnected
+[11:20:22] [Server thread/INFO]: FORNya left the game
+[12:19:29] [User Authenticator #2/INFO]: UUID of player sadondes is 79f7f788-cee8-4d46-8014-ff7ad89118f9
+[12:19:29] [Server thread/INFO]: sadondes[/124.159.149.124:50477] logged in with entity id 1390 at (150.5, 66.0, -117.5)
+[12:19:29] [Server thread/INFO]: sadondes joined the game
+[12:19:37] [User Authenticator #3/INFO]: UUID of player FORNya is 5402b13f-5462-4416-bfe5-12cea1cec9ea
+[12:19:37] [Server thread/INFO]: FORNya[/192.168.0.100:50237] logged in with entity id 1452 at (167.5, 68.0, -99.5)
+[12:19:37] [Server thread/INFO]: FORNya joined the game
+[12:20:36] [Server thread/INFO]: sadondes lost connection: Disconnected
+[12:20:36] [Server thread/INFO]: sadondes left the game
+[12:20:41] [User Authenticator #4/INFO]: UUID of player sadondes is 79f7f788-cee8-4d46-8014-ff7ad89118f9
+[12:20:41] [Server thread/INFO]: sadondes[/124.159.149.124:50493] logged in with entity id 2524 at (151.42181847351975, 66.0, -118.35989142795687)
+[12:20:41] [Server thread/INFO]: sadondes joined the game
+[12:24:33] [Server thread/INFO]: <FORNya> chat
+[12:24:38] [Server thread/INFO]: Unknown command
+[12:24:38] [Server thread/INFO]: //opf<--[HERE]
+[12:24:39] [Server thread/INFO]: <sadondes> a
+[12:24:42] [Server thread/INFO]: Made FORNya a server operator
+[12:25:04] [Server thread/INFO]: [FORNya: Made sadondes a server operator]
+[12:29:17] [Server thread/INFO]: sadondes has made the advancement [Sweet Dreams]
+[12:29:24] [Server thread/INFO]: FORNya has made the advancement [Sweet Dreams]
+[12:31:56] [Server thread/INFO]: sadondes has made the advancement [Stone Age]
+[12:33:09] [Server thread/INFO]: sadondes has made the advancement [Getting an Upgrade]
+[12:34:09] [Server thread/INFO]: FORNya has made the advancement [Stone Age]
+[12:48:49] [Server thread/INFO]: sadondes has made the advancement [A Seedy Place]
+[12:50:07] [Server thread/INFO]: FORNya has made the advancement [Getting an Upgrade]
+[12:58:41] [Server thread/INFO]: FORNya drowned
+[12:58:43] [Server thread/WARN]: FORNya moved too quickly! 158.9848231742154,19.98291451564996,-101.84895655955175
+[13:19:01] [Server thread/INFO]: FORNya has made the advancement [A Seedy Place]
+[13:23:37] [Server thread/INFO]: <sadondes> good night
+[13:23:42] [Server thread/INFO]: <FORNya> good night
+[14:01:07] [Server thread/INFO]: <sadondes> 採掘行こう
+[14:06:18] [Server thread/INFO]: <FORNya> ui
+[14:06:46] [Server thread/INFO]: <sadondes> koe haittenai ?
+[14:10:51] [Server thread/INFO]: sadondes has made the advancement [Acquire Hardware]
+[14:11:24] [Server thread/INFO]: sadondes has made the advancement [Isn't It Iron Pick]
+[14:13:35] [Server thread/INFO]: FORNya lost connection: Disconnected
+[14:13:35] [Server thread/INFO]: FORNya left the game
+[14:13:46] [User Authenticator #5/INFO]: UUID of player FORNya is 5402b13f-5462-4416-bfe5-12cea1cec9ea
+[14:13:46] [Server thread/INFO]: FORNya[/192.168.0.100:51400] logged in with entity id 179076 at (186.67977421059933, 64.0, -243.48078112343404)
+[14:13:46] [Server thread/INFO]: FORNya joined the game
+[14:14:40] [Server thread/INFO]: [FORNya: Set 10 experience levels on FORNya]
+[14:14:49] [Server thread/INFO]: FORNya lost connection: Disconnected
+[14:14:49] [Server thread/INFO]: FORNya left the game
+[14:23:32] [Server thread/INFO]: sadondes has made the advancement [Monster Hunter]
+[14:37:46] [Server thread/INFO]: sadondes was slain by Spider
+[14:37:51] [Server thread/WARN]: sadondes moved too quickly! -238.80000001192093,-14.900001525878906,-26.168107238441394
+[14:40:18] [Server thread/INFO]: sadondes was shot by Skeleton
+[14:40:20] [Server thread/WARN]: sadondes moved too quickly! -232.86717472054858,-15.900001525878906,-26.80000001192093
+[14:44:09] [Server thread/INFO]: sadondes lost connection: Disconnected
+[14:44:09] [Server thread/INFO]: sadondes left the game
+[14:50:19] [Server thread/INFO]: Stopping the server
+[14:50:19] [Server thread/INFO]: Stopping server
+[14:50:19] [Server thread/INFO]: Saving players
+[14:50:19] [Server thread/INFO]: Saving worlds
+[14:50:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:50:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:50:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:50:19] [Server Shutdown Thread/INFO]: Stopping server
+[14:50:19] [Server Shutdown Thread/INFO]: Saving players
+[14:50:19] [Server Shutdown Thread/INFO]: Saving worlds
+[14:50:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:50:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:50:19] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether

@@ -1,0 +1,17 @@
+[05:18:05] [Server thread/INFO]: Unknown command
+[05:18:05] [Server thread/INFO]: <--[HERE]
+[07:37:54] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[18:24:51] [Server thread/INFO]: There are 0 of a max 20 players online: 
+[18:24:52] [Server thread/INFO]: Stopping the server
+[18:24:53] [Server thread/INFO]: Stopping server
+[18:24:53] [Server thread/INFO]: Saving players
+[18:24:53] [Server thread/INFO]: Saving worlds
+[18:24:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:24:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:24:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:24:53] [Server Shutdown Thread/INFO]: Stopping server
+[18:24:53] [Server Shutdown Thread/INFO]: Saving players
+[18:24:53] [Server Shutdown Thread/INFO]: Saving worlds
+[18:24:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:24:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:24:53] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
