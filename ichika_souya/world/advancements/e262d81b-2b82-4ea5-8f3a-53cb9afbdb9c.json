@@ -455,6 +455,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2019-02-09 14:11:18 +0000",
+      "minecraft:pig": "2019-02-09 14:13:26 +0000",
+      "minecraft:sheep": "2019-02-09 14:08:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-02-08 15:51:24 +0000"
@@ -1420,6 +1428,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-02-08 15:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-02-09 14:08:50 +0000"
     },
     "done": true
   },
