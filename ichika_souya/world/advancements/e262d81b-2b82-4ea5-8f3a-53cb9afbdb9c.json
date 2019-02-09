@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-02-09 11:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-02-08 13:51:59 +0000"
@@ -736,6 +742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-02-09 11:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-02-08 13:51:19 +0000"
@@ -1218,8 +1230,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-02-08 18:13:11 +0000",
       "minecraft:mountains": "2019-02-08 18:12:48 +0000",
+      "minecraft:forest": "2019-02-08 18:13:11 +0000",
       "minecraft:birch_forest": "2019-02-08 18:11:22 +0000",
       "minecraft:beach": "2019-02-08 18:15:30 +0000",
       "minecraft:dark_forest": "2019-02-08 13:43:02 +0000",
@@ -1443,6 +1455,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-02-08 13:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-02-09 11:55:58 +0000"
     },
     "done": true
   },
