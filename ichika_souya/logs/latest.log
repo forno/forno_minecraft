@@ -1,316 +1,52 @@
-[00:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[00:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[00:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[00:57:04] [Server thread/INFO]: Saved the game
-[00:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[00:57:17] [Server thread/INFO]: Unknown command
-[00:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[01:57:04] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[01:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[01:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[01:57:05] [Server thread/INFO]: Saved the game
-[01:57:18] [Server thread/INFO]: Automatic saving is now enabled
-[01:57:20] [Server thread/INFO]: Unknown command
-[01:57:20] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[02:57:02] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[02:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[02:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[02:57:04] [Server thread/INFO]: Saved the game
-[02:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[02:57:17] [Server thread/INFO]: Unknown command
-[02:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[03:57:02] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[03:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[03:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[03:57:04] [Server thread/INFO]: Saved the game
-[03:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[03:57:16] [Server thread/INFO]: Unknown command
-[03:57:16] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[04:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[04:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[04:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[04:57:04] [Server thread/INFO]: Saved the game
-[04:57:17] [Server thread/INFO]: Automatic saving is now enabled
-[04:57:17] [Server thread/INFO]: Unknown command
-[04:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[05:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[05:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[05:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[05:57:04] [Server thread/INFO]: Saved the game
-[05:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[05:57:16] [Server thread/INFO]: Unknown command
-[05:57:16] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[06:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[06:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[06:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[06:57:04] [Server thread/INFO]: Saved the game
-[06:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[06:57:17] [Server thread/INFO]: Unknown command
-[06:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[07:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[07:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[07:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[07:57:04] [Server thread/INFO]: Saved the game
-[07:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[07:57:17] [Server thread/INFO]: Unknown command
-[07:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[08:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[08:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[08:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[08:57:04] [Server thread/INFO]: Saved the game
-[08:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[08:57:17] [Server thread/INFO]: Unknown command
-[08:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[09:57:02] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[09:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[09:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:57:04] [Server thread/INFO]: Saved the game
-[09:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[09:57:17] [Server thread/INFO]: Unknown command
-[09:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[09:57:45] [User Authenticator #3/INFO]: UUID of player TyanponEX is 2128fabe-6dd9-45d8-a18e-a376daaaa824
-[09:57:46] [Server thread/INFO]: TyanponEX[/128.53.163.57:50470] logged in with entity id 2842 at (52.52823209466063, 78.0, -54.23789492272783)
-[09:57:46] [Server thread/INFO]: TyanponEX joined the game
-[09:57:47] [Server thread/INFO]: [@: Set the time to 1000]
-[09:57:47] [Server thread/INFO]: [@: Set the weather to clear]
-[10:02:48] [Server thread/INFO]: [@: Set the time to 1000]
-[10:02:48] [Server thread/INFO]: [@: Set the weather to clear]
-[10:03:08] [User Authenticator #4/INFO]: UUID of player A_S_Alice is a4e15c82-94a2-4d21-8b0f-7c408b22e42e
-[10:03:08] [Server thread/INFO]: A_S_Alice[/180.196.25.135:51148] logged in with entity id 8925 at (118.95644122058076, 83.8762179233857, 8.853093982255897)
-[10:03:08] [Server thread/INFO]: A_S_Alice joined the game
-[10:07:50] [Server thread/INFO]: [@: Set the time to 1000]
-[10:07:50] [Server thread/INFO]: [@: Set the weather to clear]
-[10:12:52] [Server thread/INFO]: [@: Set the time to 1000]
-[10:12:52] [Server thread/INFO]: [@: Set the weather to clear]
-[10:17:54] [Server thread/INFO]: [@: Set the time to 1000]
-[10:17:54] [Server thread/INFO]: [@: Set the weather to clear]
-[10:22:56] [Server thread/INFO]: [@: Set the time to 1000]
-[10:22:56] [Server thread/INFO]: [@: Set the weather to clear]
-[10:27:58] [Server thread/INFO]: [@: Set the time to 1000]
-[10:27:58] [Server thread/INFO]: [@: Set the weather to clear]
-[10:33:00] [Server thread/INFO]: [@: Set the time to 1000]
-[10:33:00] [Server thread/INFO]: [@: Set the weather to clear]
-[10:38:02] [Server thread/INFO]: [@: Set the time to 1000]
-[10:38:02] [Server thread/INFO]: [@: Set the weather to clear]
-[10:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3597ms or 71 ticks behind
-[10:43:08] [Server thread/INFO]: [@: Set the time to 1000]
-[10:43:08] [Server thread/INFO]: [@: Set the weather to clear]
-[10:48:10] [Server thread/INFO]: [@: Set the time to 1000]
-[10:48:10] [Server thread/INFO]: [@: Set the weather to clear]
-[10:53:12] [Server thread/INFO]: [@: Set the time to 1000]
-[10:53:12] [Server thread/INFO]: [@: Set the weather to clear]
-[10:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[10:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[10:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[10:57:05] [Server thread/INFO]: Saved the game
-[10:57:17] [Server thread/INFO]: Automatic saving is now enabled
-[10:57:18] [Server thread/INFO]: Unknown command
-[10:57:18] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[10:58:14] [Server thread/INFO]: [@: Set the time to 1000]
-[10:58:14] [Server thread/INFO]: [@: Set the weather to clear]
-[11:03:16] [Server thread/INFO]: [@: Set the time to 1000]
-[11:03:16] [Server thread/INFO]: [@: Set the weather to clear]
-[11:08:18] [Server thread/INFO]: [@: Set the time to 1000]
-[11:08:18] [Server thread/INFO]: [@: Set the weather to clear]
-[11:13:20] [Server thread/INFO]: [@: Set the time to 1000]
-[11:13:20] [Server thread/INFO]: [@: Set the weather to clear]
-[11:17:28] [Server thread/INFO]: TyanponEX lost connection: Disconnected
-[11:17:28] [Server thread/INFO]: TyanponEX left the game
-[11:18:22] [Server thread/INFO]: [@: Set the time to 1000]
-[11:18:22] [Server thread/INFO]: [@: Set the weather to clear]
-[11:23:24] [Server thread/INFO]: [@: Set the time to 1000]
-[11:23:24] [Server thread/INFO]: [@: Set the weather to clear]
-[11:28:26] [Server thread/INFO]: [@: Set the time to 1000]
-[11:28:26] [Server thread/INFO]: [@: Set the weather to clear]
-[11:33:28] [Server thread/INFO]: [@: Set the time to 1000]
-[11:33:28] [Server thread/INFO]: [@: Set the weather to clear]
-[11:37:25] [Server thread/INFO]: A_S_Alice lost connection: Disconnected
-[11:37:25] [Server thread/INFO]: A_S_Alice left the game
-[11:47:32] [User Authenticator #5/INFO]: UUID of player kanaita79 is e262d81b-2b82-4ea5-8f3a-53cb9afbdb9c
-[11:47:32] [Server thread/INFO]: kanaita79[/60.97.74.157:60966] logged in with entity id 167319 at (111.54175810636444, 63.0, 50.89081362047072)
-[11:47:32] [Server thread/INFO]: kanaita79 joined the game
-[11:47:33] [Server thread/INFO]: [@: Set the time to 1000]
-[11:47:33] [Server thread/INFO]: [@: Set the weather to clear]
-[11:52:35] [Server thread/INFO]: [@: Set the time to 1000]
-[11:52:35] [Server thread/INFO]: [@: Set the weather to clear]
-[11:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[11:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[11:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[11:57:05] [Server thread/INFO]: Saved the game
-[11:57:17] [Server thread/INFO]: Automatic saving is now enabled
-[11:57:18] [Server thread/INFO]: Unknown command
-[11:57:18] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[11:57:37] [Server thread/INFO]: [@: Set the time to 1000]
-[11:57:37] [Server thread/INFO]: [@: Set the weather to clear]
-[12:02:39] [Server thread/INFO]: [@: Set the time to 1000]
-[12:02:39] [Server thread/INFO]: [@: Set the weather to clear]
-[12:07:41] [Server thread/INFO]: [@: Set the time to 1000]
-[12:07:41] [Server thread/INFO]: [@: Set the weather to clear]
-[12:12:43] [Server thread/INFO]: [@: Set the time to 1000]
-[12:12:43] [Server thread/INFO]: [@: Set the weather to clear]
-[12:17:45] [Server thread/INFO]: [@: Set the time to 1000]
-[12:17:45] [Server thread/INFO]: [@: Set the weather to clear]
-[12:22:47] [Server thread/INFO]: [@: Set the time to 1000]
-[12:22:47] [Server thread/INFO]: [@: Set the weather to clear]
-[12:27:49] [Server thread/INFO]: [@: Set the time to 1000]
-[12:27:49] [Server thread/INFO]: [@: Set the weather to clear]
-[12:32:51] [Server thread/INFO]: [@: Set the time to 1000]
-[12:32:51] [Server thread/INFO]: [@: Set the weather to clear]
-[12:37:53] [Server thread/INFO]: [@: Set the time to 1000]
-[12:37:53] [Server thread/INFO]: [@: Set the weather to clear]
-[12:42:55] [Server thread/INFO]: [@: Set the time to 1000]
-[12:42:55] [Server thread/INFO]: [@: Set the weather to clear]
-[12:47:57] [Server thread/INFO]: [@: Set the time to 1000]
-[12:47:57] [Server thread/INFO]: [@: Set the weather to clear]
-[12:52:59] [Server thread/INFO]: [@: Set the time to 1000]
-[12:52:59] [Server thread/INFO]: [@: Set the weather to clear]
-[12:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[12:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[12:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:57:05] [Server thread/INFO]: Saved the game
-[12:57:17] [Server thread/INFO]: Automatic saving is now enabled
-[12:57:17] [Server thread/INFO]: Unknown command
-[12:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[12:58:01] [Server thread/INFO]: [@: Set the time to 1000]
-[12:58:01] [Server thread/INFO]: [@: Set the weather to clear]
-[13:03:03] [Server thread/INFO]: [@: Set the time to 1000]
-[13:03:03] [Server thread/INFO]: [@: Set the weather to clear]
-[13:08:05] [Server thread/INFO]: [@: Set the time to 1000]
-[13:08:05] [Server thread/INFO]: [@: Set the weather to clear]
-[13:13:07] [Server thread/INFO]: [@: Set the time to 1000]
-[13:13:07] [Server thread/INFO]: [@: Set the weather to clear]
-[13:18:09] [Server thread/INFO]: [@: Set the time to 1000]
-[13:18:09] [Server thread/INFO]: [@: Set the weather to clear]
-[13:23:11] [Server thread/INFO]: [@: Set the time to 1000]
-[13:23:11] [Server thread/INFO]: [@: Set the weather to clear]
-[13:28:13] [Server thread/INFO]: [@: Set the time to 1000]
-[13:28:13] [Server thread/INFO]: [@: Set the weather to clear]
-[13:33:07] [Server thread/INFO]: kanaita79 has made the advancement [Ice Bucket Challenge]
-[13:33:15] [Server thread/INFO]: [@: Set the time to 1000]
-[13:33:15] [Server thread/INFO]: [@: Set the weather to clear]
-[13:38:17] [Server thread/INFO]: [@: Set the time to 1000]
-[13:38:17] [Server thread/INFO]: [@: Set the weather to clear]
-[13:42:40] [Server thread/INFO]: kanaita79 has made the advancement [We Need to Go Deeper]
-[13:42:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5895ms or 117 ticks behind
-[13:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
-[13:45:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
-[13:45:27] [Server thread/INFO]: [@: Set the time to 1000]
-[13:45:27] [Server thread/INFO]: [@: Set the weather to clear]
-[13:50:29] [Server thread/INFO]: [@: Set the time to 1000]
-[13:50:29] [Server thread/INFO]: [@: Set the weather to clear]
-[13:55:31] [Server thread/INFO]: [@: Set the time to 1000]
-[13:55:31] [Server thread/INFO]: [@: Set the weather to clear]
-[13:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[13:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[13:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:57:05] [Server thread/INFO]: Saved the game
-[13:57:17] [Server thread/INFO]: Automatic saving is now enabled
-[13:57:18] [Server thread/INFO]: Unknown command
-[13:57:18] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[14:00:33] [Server thread/INFO]: [@: Set the time to 1000]
-[14:00:33] [Server thread/INFO]: [@: Set the weather to clear]
-[14:05:35] [Server thread/INFO]: [@: Set the time to 1000]
-[14:05:35] [Server thread/INFO]: [@: Set the weather to clear]
-[14:06:42] [Server thread/INFO]: [kanaita79: Set own game mode to Creative Mode]
-[14:08:08] [Server thread/INFO]: [kanaita79: Set own game mode to Survival Mode]
-[14:08:50] [Server thread/INFO]: kanaita79 has made the advancement [The Parrots and the Bats]
-[14:10:37] [Server thread/INFO]: [@: Set the time to 1000]
-[14:10:37] [Server thread/INFO]: [@: Set the weather to clear]
-[14:15:39] [Server thread/INFO]: [@: Set the time to 1000]
-[14:15:39] [Server thread/INFO]: [@: Set the weather to clear]
-[14:18:56] [Server thread/INFO]: kanaita79 lost connection: Disconnected
-[14:18:56] [Server thread/INFO]: kanaita79 left the game
-[14:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[14:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[14:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:57:05] [Server thread/INFO]: Saved the game
-[14:57:17] [Server thread/INFO]: Automatic saving is now enabled
-[14:57:17] [Server thread/INFO]: Unknown command
-[14:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
+[15:22:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:22:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:22:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:22:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:22:48] [main/INFO]: Loaded 0 recipes
+[15:22:48] [main/INFO]: Loaded 0 advancements
+[15:22:48] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[15:22:48] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:22:48] [Server thread/INFO]: Loading properties
+[15:22:48] [Server thread/INFO]: Default game type: SURVIVAL
+[15:22:48] [Server thread/INFO]: Generating keypair
+[15:22:48] [Server thread/INFO]: Starting Minecraft server on *:25566
+[15:22:49] [Server thread/INFO]: Using epoll channel type
+[15:22:49] [Server thread/INFO]: Preparing level "world"
+[15:22:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:22:52] [Server thread/INFO]: Loaded 524 recipes
+[15:22:53] [Server thread/INFO]: Loaded 571 advancements
+[15:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:22:54] [Server thread/INFO]: Preparing spawn area: 4%
+[15:22:55] [Server thread/INFO]: Preparing spawn area: 8%
+[15:22:55] [Server thread/INFO]: Preparing spawn area: 12%
+[15:22:56] [Server thread/INFO]: Preparing spawn area: 16%
+[15:22:56] [Server thread/INFO]: Preparing spawn area: 20%
+[15:22:56] [Server thread/INFO]: Preparing spawn area: 24%
+[15:22:56] [Server thread/INFO]: Preparing spawn area: 28%
+[15:22:56] [Server thread/INFO]: Preparing spawn area: 32%
+[15:22:56] [Server thread/INFO]: Preparing spawn area: 36%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 40%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 44%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 48%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 52%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 56%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 60%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 64%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 68%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 72%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 76%
+[15:22:58] [Server thread/INFO]: Preparing spawn area: 80%
+[15:22:59] [Server thread/INFO]: Preparing spawn area: 84%
+[15:22:59] [Server thread/INFO]: Preparing spawn area: 88%
+[15:22:59] [Server thread/INFO]: Preparing spawn area: 92%
+[15:22:59] [Server thread/INFO]: Preparing spawn area: 96%
+[15:22:59] [Server thread/INFO]: Preparing spawn area: 100%
+[15:22:59] [Server thread/INFO]: Time elapsed: 6056 ms
+[15:22:59] [Server thread/INFO]: Done (10.265s)! For help, type "help"
+[15:23:00] [Server thread/INFO]: [@: Set the time to 1000]
+[15:23:00] [Server thread/INFO]: [@: Set the weather to clear]
+[15:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
 [15:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
 [15:57:03] [Server thread/INFO]: Automatic saving is now disabled
 [15:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
 [15:57:04] [Server thread/INFO]: Saved the game
-[15:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[15:57:17] [Server thread/INFO]: Unknown command
-[15:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[16:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[16:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[16:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:57:04] [Server thread/INFO]: Saved the game
-[16:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[16:57:16] [Server thread/INFO]: Unknown command
-[16:57:16] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[17:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[17:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[17:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:57:04] [Server thread/INFO]: Saved the game
-[17:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[17:57:17] [Server thread/INFO]: Unknown command
-[17:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[18:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[18:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[18:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[18:57:04] [Server thread/INFO]: Saved the game
-[18:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[18:57:17] [Server thread/INFO]: Unknown command
-[18:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[19:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[19:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[19:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[19:57:04] [Server thread/INFO]: Saved the game
-[19:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[19:57:17] [Server thread/INFO]: Unknown command
-[19:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[20:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[20:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[20:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:57:04] [Server thread/INFO]: Saved the game
-[20:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[20:57:17] [Server thread/INFO]: Unknown command
-[20:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[21:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[21:57:04] [Server thread/INFO]: Automatic saving is now disabled
-[21:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[21:57:05] [Server thread/INFO]: Saved the game
-[21:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[21:57:17] [Server thread/INFO]: Unknown command
-[21:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[22:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[22:57:03] [Server thread/INFO]: Automatic saving is now disabled
-[22:57:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:57:04] [Server thread/INFO]: Saved the game
-[22:57:16] [Server thread/INFO]: Automatic saving is now enabled
-[22:57:17] [Server thread/INFO]: Unknown command
-[22:57:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[23:39:01] [Server thread/INFO]: [Server] [System] We shutdown this server soon. 10 seconds left.
-[23:39:12] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN. Saving map...
-[23:39:12] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:39:12] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_191]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_191]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_191]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_191]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_191]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_191]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_191]
-	at so$2.run(SourceFile:110) [server.jar:?]
-[23:39:12] [Server Shutdown Thread/INFO]: Stopping server
-[23:39:12] [Server Shutdown Thread/INFO]: Saving players
-[23:39:12] [Server Shutdown Thread/INFO]: Saving worlds
-[23:39:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:39:12] [Server thread/INFO]: Saved the game
-[23:39:12] [Server thread/INFO]: Stopping the server
-[23:39:12] [Server thread/INFO]: Stopping server
-[23:39:12] [Server thread/INFO]: Saving players
-[23:39:12] [Server thread/INFO]: Saving worlds
-[23:39:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[23:39:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:39:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[23:39:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[23:39:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
