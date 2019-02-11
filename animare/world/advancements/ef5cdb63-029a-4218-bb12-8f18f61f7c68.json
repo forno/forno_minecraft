@@ -346,7 +346,8 @@
       "cooked_mutton": "2019-02-11 07:55:12 +0000",
       "cooked_beef": "2019-02-11 07:25:53 +0000",
       "cooked_cod": "2019-02-11 13:12:37 +0000",
-      "cooked_chicken": "2019-02-11 08:51:26 +0000"
+      "cooked_chicken": "2019-02-11 08:51:26 +0000",
+      "cooked_salmon": "2019-02-11 13:58:54 +0000"
     },
     "done": false
   },
@@ -1431,20 +1432,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-11 12:29:03 +0000",
-      "minecraft:mountains": "2019-02-11 10:42:58 +0000",
       "minecraft:forest": "2019-02-11 07:11:32 +0000",
+      "minecraft:mountains": "2019-02-11 10:42:58 +0000",
       "minecraft:taiga": "2019-02-11 12:47:19 +0000",
       "minecraft:giant_tree_taiga": "2019-02-11 12:48:09 +0000",
       "minecraft:birch_forest": "2019-02-11 07:14:45 +0000",
       "minecraft:warm_ocean": "2019-02-11 10:42:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-02-11 10:42:03 +0000",
       "minecraft:beach": "2019-02-11 07:00:48 +0000",
-      "minecraft:lukewarm_ocean": "2019-02-11 10:41:48 +0000",
       "minecraft:river": "2019-02-11 07:13:34 +0000",
+      "minecraft:lukewarm_ocean": "2019-02-11 10:41:48 +0000",
       "minecraft:birch_forest_hills": "2019-02-11 12:31:55 +0000",
       "minecraft:wooded_hills": "2019-02-11 06:58:38 +0000",
-      "minecraft:stone_shore": "2019-02-11 10:42:52 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-02-11 12:47:59 +0000",
+      "minecraft:stone_shore": "2019-02-11 10:42:52 +0000",
       "minecraft:swamp": "2019-02-11 12:29:33 +0000",
       "minecraft:plains": "2019-02-11 07:00:24 +0000"
     },
