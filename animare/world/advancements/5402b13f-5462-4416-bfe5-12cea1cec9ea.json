@@ -231,7 +231,8 @@
     "criteria": {
       "cooked_porkchop": "2019-01-16 18:04:33 +0000",
       "cooked_mutton": "2019-01-18 21:16:55 +0000",
-      "rotten_flesh": "2019-01-16 18:00:38 +0000"
+      "rotten_flesh": "2019-01-16 18:00:38 +0000",
+      "cooked_chicken": "2019-02-11 07:31:59 +0000"
     },
     "done": false
   },
