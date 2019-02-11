@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-02-11 15:07:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 14:16:55 +0000"
@@ -500,6 +506,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2019-02-11 15:01:21 +0000",
       "minecraft:sheep": "2019-02-11 14:08:05 +0000"
     },
     "done": false
@@ -752,6 +759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-02-11 15:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 14:16:55 +0000"
@@ -760,6 +773,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2019-02-11 15:07:56 +0000",
       "minecraft:ghast": "2019-02-11 14:29:45 +0000",
       "minecraft:zombie": "2019-02-11 14:12:53 +0000"
     },
