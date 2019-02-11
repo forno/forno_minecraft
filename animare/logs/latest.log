@@ -148,3 +148,20 @@
 [15:57:03] [Server thread/INFO]: Automatic saving is now disabled
 [15:57:03] [Server thread/INFO]: Saving the game (this may take a moment!)
 [15:57:03] [Server thread/INFO]: Saved the game
+[15:57:15] [Server thread/INFO]: Automatic saving is now enabled
+[15:57:15] [Server thread/INFO]: Unknown command
+[15:57:15] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
+[16:00:10] [Server thread/INFO]: pura1980 lost connection: Disconnected
+[16:00:10] [Server thread/INFO]: pura1980 left the game
+[16:00:15] [User Authenticator #11/INFO]: UUID of player pura1980 is b06fd1cb-bf81-44e9-ad8b-001e954b7932
+[16:00:15] [Server thread/INFO]: pura1980[/133.218.170.234:54366] logged in with entity id 302170 at (-12.111701714458965, 135.0, 125.53185840513001)
+[16:00:15] [Server thread/INFO]: pura1980 joined the game
+[16:20:51] [Server thread/INFO]: pura1980 was slain by Zombie
+[16:21:11] [Server thread/INFO]: pura1980 was slain by Zombie
+[16:24:38] [Server thread/INFO]: pura1980 was slain by Zombie
+[16:27:51] [Server thread/INFO]: pura1980 lost connection: Disconnected
+[16:27:51] [Server thread/INFO]: pura1980 left the game
+[16:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
+[16:57:03] [Server thread/INFO]: Automatic saving is now disabled
+[16:57:03] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:57:04] [Server thread/INFO]: Saved the game
