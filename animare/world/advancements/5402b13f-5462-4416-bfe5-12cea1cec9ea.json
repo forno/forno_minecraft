@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-02-11 08:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-01-16 18:48:24 +0000"
@@ -583,6 +589,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-01-18 20:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-02-11 08:35:57 +0000"
     },
     "done": true
   },
