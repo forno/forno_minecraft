@@ -431,6 +431,7 @@
       "cooked_mutton": "2019-02-11 07:55:12 +0000",
       "cooked_beef": "2019-02-11 07:25:53 +0000",
       "cooked_cod": "2019-02-11 13:12:37 +0000",
+      "rotten_flesh": "2019-02-12 12:19:23 +0000",
       "cooked_chicken": "2019-02-11 08:51:26 +0000",
       "cooked_salmon": "2019-02-11 13:58:54 +0000"
     },
@@ -986,6 +987,7 @@
       "minecraft:witch": "2019-02-12 11:50:00 +0000",
       "minecraft:wither_skeleton": "2019-02-11 08:53:39 +0000",
       "minecraft:ghast": "2019-02-11 09:29:29 +0000",
+      "minecraft:cave_spider": "2019-02-12 12:17:09 +0000",
       "minecraft:magma_cube": "2019-02-11 09:46:59 +0000",
       "minecraft:spider": "2019-02-11 11:18:37 +0000",
       "minecraft:zombie": "2019-02-11 10:52:08 +0000",
@@ -1382,6 +1384,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-02-11 11:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-02-12 12:41:29 +0000"
     },
     "done": true
   },
