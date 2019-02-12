@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-02-12 18:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-02-11 07:16:05 +0000"
@@ -315,6 +321,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-02-11 07:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-02-12 18:29:46 +0000"
     },
     "done": true
   },
@@ -1097,6 +1109,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-02-11 07:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-02-12 18:31:40 +0000"
     },
     "done": true
   },
@@ -1900,6 +1918,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2019-02-11 07:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-02-12 18:30:12 +0000"
     },
     "done": true
   },
