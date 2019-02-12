@@ -431,6 +431,7 @@
       "cooked_mutton": "2019-02-11 07:55:12 +0000",
       "cooked_beef": "2019-02-11 07:25:53 +0000",
       "cooked_cod": "2019-02-11 13:12:37 +0000",
+      "bread": "2019-02-12 13:16:47 +0000",
       "rotten_flesh": "2019-02-12 12:19:23 +0000",
       "cooked_chicken": "2019-02-11 08:51:26 +0000",
       "cooked_salmon": "2019-02-11 13:58:54 +0000"
@@ -656,6 +657,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 07:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-02-12 13:41:09 +0000"
     },
     "done": true
   },
@@ -1138,6 +1145,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-02-11 07:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-02-12 13:41:09 +0000"
     },
     "done": true
   },
@@ -1654,6 +1667,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-02-11 11:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2019-02-12 13:40:37 +0000"
     },
     "done": true
   },
