@@ -35,6 +35,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2019-02-12 09:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2019-02-12 09:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-02-11 07:00:42 +0000"
@@ -188,6 +200,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-02-11 06:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2019-02-12 09:15:55 +0000"
     },
     "done": true
   },
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2019-02-12 09:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
@@ -374,6 +398,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 07:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2019-02-12 09:15:55 +0000"
     },
     "done": true
   },
@@ -580,8 +610,8 @@
       "minecraft:skeleton": "2019-02-11 14:47:42 +0000",
       "minecraft:witch": "2019-02-11 15:25:47 +0000",
       "minecraft:zombie": "2019-02-11 14:15:48 +0000",
-      "minecraft:creeper": "2019-02-11 14:56:09 +0000",
-      "minecraft:drowned": "2019-02-11 16:18:46 +0000"
+      "minecraft:drowned": "2019-02-11 16:18:46 +0000",
+      "minecraft:creeper": "2019-02-11 14:56:09 +0000"
     },
     "done": false
   },
@@ -825,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2019-02-12 09:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-02-11 06:47:02 +0000"
@@ -963,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-02-12 09:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-02-11 08:51:47 +0000"
@@ -1047,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2019-02-12 09:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2019-02-11 06:36:07 +0000",
@@ -1104,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2019-02-12 09:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_lapis": "2019-02-11 11:01:45 +0000"
@@ -1152,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2019-02-12 09:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 07:00:42 +0000"
@@ -1197,6 +1257,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-02-11 15:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2019-02-12 09:31:55 +0000"
     },
     "done": true
   },
