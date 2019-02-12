@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-12 11:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-02-11 08:56:08 +0000"
@@ -225,6 +231,12 @@
     "criteria": {
       "diamond_helmet": "2019-02-12 09:40:35 +0000",
       "diamond_boots": "2019-02-12 09:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-12 11:06:18 +0000"
     },
     "done": true
   },
@@ -381,6 +393,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-02-11 13:17:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-02-12 11:06:17 +0000"
     },
     "done": true
   },
@@ -691,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-12 11:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2019-02-11 08:56:08 +0000"
@@ -766,6 +790,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2019-02-12 08:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-02-12 11:52:59 +0000"
     },
     "done": true
   },
@@ -937,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-02-12 11:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-02-12 08:47:08 +0000"
@@ -947,12 +983,14 @@
     "criteria": {
       "minecraft:blaze": "2019-02-11 08:45:53 +0000",
       "minecraft:skeleton": "2019-02-11 11:07:28 +0000",
+      "minecraft:witch": "2019-02-12 11:50:00 +0000",
       "minecraft:wither_skeleton": "2019-02-11 08:53:39 +0000",
       "minecraft:ghast": "2019-02-11 09:29:29 +0000",
       "minecraft:magma_cube": "2019-02-11 09:46:59 +0000",
       "minecraft:spider": "2019-02-11 11:18:37 +0000",
       "minecraft:zombie": "2019-02-11 10:52:08 +0000",
       "minecraft:creeper": "2019-02-11 10:54:11 +0000",
+      "minecraft:drowned": "2019-02-12 11:52:59 +0000",
       "minecraft:zombie_villager": "2019-02-12 09:35:01 +0000"
     },
     "done": false
@@ -1320,6 +1358,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-02-11 07:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-02-12 11:11:06 +0000"
     },
     "done": true
   },
@@ -1730,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-02-12 11:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2019-02-11 11:19:01 +0000"
@@ -1868,6 +1918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-12 11:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-02-11 11:12:04 +0000"
@@ -1883,6 +1939,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-02-11 12:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-02-12 11:06:18 +0000"
     },
     "done": true
   },

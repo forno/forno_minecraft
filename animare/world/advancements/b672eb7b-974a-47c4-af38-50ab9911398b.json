@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-12 11:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-01-18 20:20:45 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2019-01-24 22:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-12 11:14:06 +0000"
     },
     "done": true
   },
@@ -805,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-12 11:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2019-01-16 17:09:36 +0000"
@@ -997,8 +1015,8 @@
       "minecraft:cave_spider": "2019-02-12 07:35:24 +0000",
       "minecraft:spider": "2019-01-16 17:40:03 +0000",
       "minecraft:zombie": "2019-01-16 17:22:02 +0000",
-      "minecraft:drowned": "2019-01-24 23:18:09 +0000",
       "minecraft:creeper": "2019-01-16 18:05:46 +0000",
+      "minecraft:drowned": "2019-01-24 23:18:09 +0000",
       "minecraft:slime": "2019-02-11 13:13:43 +0000"
     },
     "done": false
@@ -1222,6 +1240,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-01-20 18:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-12 11:14:06 +0000"
     },
     "done": true
   },
