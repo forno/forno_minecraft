@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-13 08:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-02-11 08:51:47 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-02-11 06:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-13 08:55:31 +0000"
     },
     "done": true
   },
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-02-13 08:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-02-11 08:51:47 +0000"
@@ -335,13 +353,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
     },
@@ -464,6 +482,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-02-11 08:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-13 08:55:31 +0000"
     },
     "done": true
   },
@@ -647,15 +671,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-02-12 15:49:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-02-12 15:49:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_diamond": "2019-02-12 15:49:51 +0000"
+      "has_glowstone_dust": "2019-02-13 08:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-02-13 08:55:31 +0000"
     },
     "done": true
   },
@@ -670,8 +706,8 @@
       "minecraft:skeleton": "2019-02-11 14:47:42 +0000",
       "minecraft:witch": "2019-02-11 15:25:47 +0000",
       "minecraft:zombie": "2019-02-11 14:15:48 +0000",
-      "minecraft:drowned": "2019-02-11 16:18:46 +0000",
       "minecraft:creeper": "2019-02-11 14:56:09 +0000",
+      "minecraft:drowned": "2019-02-11 16:18:46 +0000",
       "minecraft:zombie_villager": "2019-02-12 15:56:21 +0000"
     },
     "done": false
@@ -1048,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-02-13 08:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-02-11 07:04:25 +0000"
@@ -1255,6 +1297,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-02-13 08:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-02-13 08:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-02-11 06:39:56 +0000"
@@ -1387,9 +1441,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-13 08:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-02-11 10:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-02-13 08:55:31 +0000"
     },
     "done": true
   },
