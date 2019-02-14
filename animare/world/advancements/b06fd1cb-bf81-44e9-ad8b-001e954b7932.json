@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-02-13 09:00:52 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
     },
     "done": true
   },
@@ -197,6 +209,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-02-14 11:15:35 +0000",
+      "diamond_helmet": "2019-02-14 11:15:35 +0000",
+      "diamond_chestplate": "2019-02-14 11:15:35 +0000",
+      "diamond_boots": "2019-02-14 11:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
@@ -212,6 +233,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-02-11 07:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
     },
     "done": true
   },
@@ -341,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2019-02-14 15:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_chicken": "2019-02-11 06:42:18 +0000"
@@ -419,13 +452,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
     },
@@ -470,6 +503,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-11 06:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2019-02-14 15:51:45 +0000"
     },
     "done": true
   },
@@ -635,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-02-14 15:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 07:00:42 +0000"
@@ -791,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-02-12 15:49:51 +0000"
@@ -901,6 +952,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2019-02-13 10:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
     },
     "done": true
   },
@@ -1168,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-02-14 15:07:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-02-11 15:31:54 +0000"
@@ -1237,6 +1300,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-02-11 15:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
     },
     "done": true
   },
@@ -1312,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2019-02-14 15:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-02-11 09:21:46 +0000"
@@ -1357,6 +1432,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-02-11 07:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
     },
     "done": true
   },
@@ -1452,11 +1533,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-02-14 15:09:09 +0000",
+      "minecraft:mountains": "2019-02-14 14:35:21 +0000",
       "minecraft:forest": "2019-02-13 09:15:15 +0000",
+      "minecraft:taiga": "2019-02-14 14:40:58 +0000",
+      "minecraft:giant_tree_taiga": "2019-02-14 14:39:39 +0000",
+      "minecraft:deep_cold_ocean": "2019-02-14 15:09:03 +0000",
+      "minecraft:taiga_hills": "2019-02-14 14:39:27 +0000",
+      "minecraft:deep_frozen_ocean": "2019-02-14 15:09:07 +0000",
       "minecraft:birch_forest": "2019-02-14 09:44:48 +0000",
+      "minecraft:warm_ocean": "2019-02-14 15:14:07 +0000",
+      "minecraft:deep_lukewarm_ocean": "2019-02-14 15:12:15 +0000",
       "minecraft:beach": "2019-02-11 06:36:07 +0000",
+      "minecraft:lukewarm_ocean": "2019-02-14 14:08:00 +0000",
       "minecraft:river": "2019-02-11 06:40:52 +0000",
+      "minecraft:wooded_mountains": "2019-02-14 14:53:21 +0000",
       "minecraft:wooded_hills": "2019-02-11 06:35:38 +0000",
+      "minecraft:stone_shore": "2019-02-14 14:07:48 +0000",
+      "minecraft:giant_tree_taiga_hills": "2019-02-14 14:40:22 +0000",
+      "minecraft:swamp": "2019-02-14 14:49:40 +0000",
       "minecraft:plains": "2019-02-11 06:36:12 +0000"
     },
     "done": false
@@ -1674,6 +1769,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-02-13 13:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-02-14 15:08:27 +0000"
     },
     "done": true
   },
