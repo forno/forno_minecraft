@@ -826,8 +826,8 @@
       "minecraft:skeleton": "2019-02-11 14:47:42 +0000",
       "minecraft:witch": "2019-02-11 15:25:47 +0000",
       "minecraft:zombie": "2019-02-11 14:15:48 +0000",
-      "minecraft:drowned": "2019-02-11 16:18:46 +0000",
       "minecraft:creeper": "2019-02-11 14:56:09 +0000",
+      "minecraft:drowned": "2019-02-11 16:18:46 +0000",
       "minecraft:zombie_villager": "2019-02-12 15:56:21 +0000"
     },
     "done": false
@@ -1453,6 +1453,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-02-13 09:15:15 +0000",
+      "minecraft:birch_forest": "2019-02-14 09:44:48 +0000",
       "minecraft:beach": "2019-02-11 06:36:07 +0000",
       "minecraft:river": "2019-02-11 06:40:52 +0000",
       "minecraft:wooded_hills": "2019-02-11 06:35:38 +0000",
