@@ -12,3 +12,13 @@ git stauts
 git status
 git reset .
 exit
+ls
+git aa
+git add -A
+git status
+git commit
+ls
+git s
+git status
+ls
+exit

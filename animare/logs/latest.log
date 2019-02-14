@@ -1,53 +1,33 @@
-[19:30:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:30:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:30:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:30:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:30:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:30:19] [main/INFO]: Loaded 0 recipes
-[19:30:19] [main/INFO]: Loaded 0 advancements
-[19:30:19] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[19:30:19] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[19:30:19] [Server thread/INFO]: Loading properties
-[19:30:19] [Server thread/INFO]: Default game type: SURVIVAL
-[19:30:19] [Server thread/INFO]: Generating keypair
-[19:30:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:30:20] [Server thread/INFO]: Using epoll channel type
-[19:30:20] [Server thread/INFO]: Preparing level "world"
-[19:30:20] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:30:21] [Server thread/INFO]: Loaded 524 recipes
-[19:30:22] [Server thread/INFO]: Loaded 571 advancements
-[19:30:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:30:26] [Server thread/INFO]: Preparing spawn area: 4%
-[19:30:26] [Server thread/INFO]: Preparing spawn area: 8%
-[19:30:26] [Server thread/INFO]: Preparing spawn area: 12%
-[19:30:27] [Server thread/INFO]: Preparing spawn area: 16%
-[19:30:27] [Server thread/INFO]: Preparing spawn area: 20%
-[19:30:27] [Server thread/INFO]: Preparing spawn area: 24%
-[19:30:27] [Server thread/INFO]: Preparing spawn area: 28%
-[19:30:27] [Server thread/INFO]: Preparing spawn area: 32%
-[19:30:28] [Server thread/INFO]: Preparing spawn area: 36%
-[19:30:28] [Server thread/INFO]: Preparing spawn area: 40%
-[19:30:28] [Server thread/INFO]: Preparing spawn area: 44%
-[19:30:28] [Server thread/INFO]: Preparing spawn area: 48%
-[19:30:28] [Server thread/INFO]: Preparing spawn area: 52%
-[19:30:30] [Server thread/INFO]: Preparing spawn area: 56%
-[19:30:30] [Server thread/INFO]: Preparing spawn area: 60%
-[19:30:30] [Server thread/INFO]: Preparing spawn area: 64%
-[19:30:31] [Server thread/INFO]: Preparing spawn area: 68%
-[19:30:31] [Server thread/INFO]: Preparing spawn area: 72%
-[19:30:32] [Server thread/INFO]: Preparing spawn area: 76%
-[19:30:33] [Server thread/INFO]: Preparing spawn area: 80%
-[19:30:33] [Server thread/INFO]: Preparing spawn area: 84%
-[19:30:33] [Server thread/INFO]: Preparing spawn area: 88%
-[19:30:33] [Server thread/INFO]: Preparing spawn area: 92%
-[19:30:33] [Server thread/INFO]: Preparing spawn area: 96%
-[19:30:33] [Server thread/INFO]: Preparing spawn area: 100%
-[19:30:33] [Server thread/INFO]: Time elapsed: 8246 ms
-[19:30:33] [Server thread/INFO]: Done (13.310s)! For help, type "help"
-[19:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[19:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11734ms or 234 ticks behind
-[19:33:33] [Server thread/INFO]: [Server] [System] We SHUTDOWN this server soon. 60 seconds left.
-[19:34:35] [Server console handler/ERROR]: Exception handling console input
+[19:50:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:50:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:50:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:50:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:50:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:50:19] [main/INFO]: Loaded 0 recipes
+[19:50:19] [main/INFO]: Loaded 0 advancements
+[19:50:19] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[19:50:19] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[19:50:19] [Server thread/INFO]: Loading properties
+[19:50:20] [Server thread/INFO]: Default game type: SURVIVAL
+[19:50:20] [Server thread/INFO]: Generating keypair
+[19:50:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:50:20] [Server thread/INFO]: Using epoll channel type
+[19:50:20] [Server thread/INFO]: Preparing level "world"
+[19:50:21] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:50:22] [Server thread/INFO]: Loaded 524 recipes
+[19:50:25] [Server thread/INFO]: Loaded 571 advancements
+[19:50:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:50:26] [Server thread/INFO]: Preparing spawn area: 4%
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 8%
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 12%
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 16%
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 20%
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 24%
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 28%
+[19:50:28] [Server thread/INFO]: Preparing spawn area: 32%
+[19:50:28] [Server thread/INFO]: Preparing spawn area: 36%
+[19:50:28] [Server thread/INFO]: Preparing spawn area: 40%
+[19:50:28] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Input/output error
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
 	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_191]
@@ -61,4 +41,7 @@ java.io.IOException: Input/output error
 	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_191]
 	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_191]
 	at so$2.run(SourceFile:110) [server.jar:?]
-[19:34:35] [Server Shutdown Thread/INFO]: Stopping server
+[19:50:28] [Server Shutdown Thread/INFO]: Stopping server
+[19:50:28] [Server Shutdown Thread/INFO]: Saving players
+[19:50:28] [Server Shutdown Thread/INFO]: Saving worlds
+[19:50:28] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
