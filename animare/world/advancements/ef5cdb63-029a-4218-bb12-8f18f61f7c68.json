@@ -455,6 +455,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2019-02-12 20:22:09 +0000",
+      "bread": "2019-02-16 22:04:22 +0000",
       "cooked_chicken": "2019-02-12 20:29:29 +0000"
     },
     "done": false
@@ -2148,6 +2149,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-02-16 22:39:53 +0000"
     },
     "done": true
   },
