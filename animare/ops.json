@@ -12,20 +12,8 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "236ed0cc-b3fb-4802-8096-d794dccaff0b",
-    "name": "forno",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "5402b13f-5462-4416-bfe5-12cea1cec9ea",
     "name": "FORNya",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "ef5cdb63-029a-4218-bb12-8f18f61f7c68",
-    "name": "RabbitCat",
     "level": 4,
     "bypassesPlayerLimit": false
   }

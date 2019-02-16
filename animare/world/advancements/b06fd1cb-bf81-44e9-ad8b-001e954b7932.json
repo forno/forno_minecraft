@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-16 19:36:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-02-11 08:51:47 +0000"
@@ -323,6 +329,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2019-02-12 09:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-16 19:36:43 +0000"
     },
     "done": true
   },
@@ -626,6 +638,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2019-02-16 19:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2019-02-12 09:15:55 +0000"
@@ -755,6 +773,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2019-02-11 10:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-16 19:36:43 +0000"
     },
     "done": true
   },
@@ -919,11 +943,12 @@
       "minecraft:skeleton": "2019-02-11 14:47:42 +0000",
       "minecraft:witch": "2019-02-11 15:25:47 +0000",
       "minecraft:cave_spider": "2019-02-16 16:48:45 +0000",
+      "minecraft:silverfish": "2019-02-16 19:05:35 +0000",
       "minecraft:enderman": "2019-02-15 17:02:01 +0000",
       "minecraft:spider": "2019-02-16 13:39:29 +0000",
       "minecraft:zombie": "2019-02-11 14:15:48 +0000",
-      "minecraft:creeper": "2019-02-11 14:56:09 +0000",
       "minecraft:drowned": "2019-02-11 16:18:46 +0000",
+      "minecraft:creeper": "2019-02-11 14:56:09 +0000",
       "minecraft:zombie_villager": "2019-02-12 15:56:21 +0000",
       "minecraft:slime": "2019-02-16 18:49:30 +0000"
     },
@@ -1097,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-02-16 19:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-02-11 07:00:56 +0000"
@@ -1136,6 +1167,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-02-11 15:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2019-02-16 19:36:43 +0000"
     },
     "done": true
   },
@@ -1652,8 +1689,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-14 15:09:09 +0000",
-      "minecraft:mountains": "2019-02-14 14:35:21 +0000",
       "minecraft:forest": "2019-02-13 09:15:15 +0000",
+      "minecraft:mountains": "2019-02-14 14:35:21 +0000",
       "minecraft:taiga": "2019-02-14 14:40:58 +0000",
       "minecraft:giant_tree_taiga": "2019-02-14 14:39:39 +0000",
       "minecraft:deep_cold_ocean": "2019-02-14 15:09:03 +0000",
@@ -1663,12 +1700,12 @@
       "minecraft:warm_ocean": "2019-02-14 15:14:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-02-14 15:12:15 +0000",
       "minecraft:beach": "2019-02-11 06:36:07 +0000",
-      "minecraft:lukewarm_ocean": "2019-02-14 14:08:00 +0000",
       "minecraft:river": "2019-02-11 06:40:52 +0000",
+      "minecraft:lukewarm_ocean": "2019-02-14 14:08:00 +0000",
       "minecraft:wooded_mountains": "2019-02-14 14:53:21 +0000",
       "minecraft:wooded_hills": "2019-02-11 06:35:38 +0000",
-      "minecraft:stone_shore": "2019-02-14 14:07:48 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-02-14 14:40:22 +0000",
+      "minecraft:stone_shore": "2019-02-14 14:07:48 +0000",
       "minecraft:swamp": "2019-02-14 14:49:40 +0000",
       "minecraft:plains": "2019-02-11 06:36:12 +0000"
     },
