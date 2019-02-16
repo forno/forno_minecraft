@@ -183,3 +183,27 @@
 [14:57:04] [Server thread/INFO]: Automatic saving is now disabled
 [14:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
 [14:57:06] [Server thread/INFO]: Saved the game
+[14:57:20] [Server thread/INFO]: Automatic saving is now enabled
+[14:57:21] [Server thread/INFO]: Unknown command
+[14:57:21] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
+[15:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:14:18] [Server thread/INFO]: <RabbitCat> ファントムが多いので寝てくれると助かりまする
+[15:15:00] [Server thread/INFO]: <RabbitCat> ありがとー
+[15:15:26] [Server thread/INFO]: <pura1980> 地下にずっといるからまた声かけて～
+[15:15:41] [Server thread/INFO]: <RabbitCat> 了解(*‘ω‘ *)
+[15:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[15:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:53:03] [Server thread/WARN]: Fetching addPacket for removed entity
+[15:57:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
+[15:57:04] [Server thread/INFO]: Automatic saving is now disabled
+[15:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:57:05] [Server thread/INFO]: Saved the game
