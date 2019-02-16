@@ -131,18 +131,18 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-02-12 20:18:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2019-02-12 20:18:55 +0000",
       "diamond_helmet": "2019-02-12 20:18:55 +0000",
       "diamond_chestplate": "2019-02-12 20:18:55 +0000",
       "diamond_boots": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-02-12 20:18:55 +0000"
     },
     "done": true
   },
@@ -315,13 +315,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-12 21:22:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-02-12 21:22:34 +0000"
     },
@@ -372,6 +372,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-02-16 13:55:28 +0000"
     },
     "done": true
   },
@@ -603,21 +609,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2019-02-12 21:11:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-02-12 21:11:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
-      "has_glowstone_dust": "2019-02-13 15:47:19 +0000"
+      "has_diamond": "2019-02-12 21:11:16 +0000"
     },
     "done": true
   },
@@ -627,12 +627,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-02-13 15:47:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-02-13 16:01:48 +0000",
       "minecraft:phantom": "2019-02-13 16:02:49 +0000",
       "minecraft:spider": "2019-02-12 20:39:38 +0000",
-      "minecraft:drowned": "2019-02-12 20:54:41 +0000"
+      "minecraft:zombie": "2019-02-16 13:49:43 +0000",
+      "minecraft:drowned": "2019-02-12 20:54:41 +0000",
+      "minecraft:creeper": "2019-02-16 13:55:27 +0000"
     },
     "done": false
   },
@@ -840,15 +848,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2019-02-12 20:18:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2019-02-12 20:18:55 +0000"
     },
     "done": true
   },
@@ -954,15 +962,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2019-02-13 15:04:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2019-02-13 15:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2019-02-13 15:04:00 +0000"
     },
     "done": true
   },
@@ -1061,8 +1069,8 @@
       "minecraft:deep_lukewarm_ocean": "2019-02-12 20:25:57 +0000",
       "minecraft:beach": "2019-02-12 20:24:23 +0000",
       "minecraft:dark_forest": "2019-02-12 20:19:05 +0000",
-      "minecraft:river": "2019-02-12 20:23:32 +0000",
       "minecraft:lukewarm_ocean": "2019-02-12 20:24:51 +0000",
+      "minecraft:river": "2019-02-12 20:23:32 +0000",
       "minecraft:birch_forest_hills": "2019-02-12 20:27:51 +0000",
       "minecraft:wooded_hills": "2019-02-12 21:03:04 +0000",
       "minecraft:swamp": "2019-02-12 20:29:34 +0000",
@@ -1142,15 +1150,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2019-02-13 15:04:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-02-13 15:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-02-13 15:04:07 +0000"
     },
     "done": true
   },
@@ -1178,6 +1186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-02-16 13:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-02-12 20:18:55 +0000"
@@ -1190,15 +1204,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2019-02-13 15:16:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-02-13 15:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2019-02-13 15:16:02 +0000"
     },
     "done": true
   },
