@@ -22,5 +22,11 @@
     "name": "FORNya",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ef5cdb63-029a-4218-bb12-8f18f61f7c68",
+    "name": "RabbitCat",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
