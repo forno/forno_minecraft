@@ -207,3 +207,111 @@
 [15:57:04] [Server thread/INFO]: Automatic saving is now disabled
 [15:57:05] [Server thread/INFO]: Saving the game (this may take a moment!)
 [15:57:05] [Server thread/INFO]: Saved the game
+[15:57:19] [Server thread/INFO]: Automatic saving is now enabled
+[15:57:20] [Server thread/INFO]: Unknown command
+[15:57:20] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
+[16:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:20:34] [User Authenticator #8/INFO]: UUID of player Uryusango is b672eb7b-974a-47c4-af38-50ab9911398b
+[16:20:34] [Server thread/INFO]: Uryusango[/115.163.178.51:57296] logged in with entity id 519386 at (-206.5818135302377, 63.0, 190.36519065689853)
+[16:20:34] [Server thread/INFO]: Uryusango joined the game
+[16:20:45] [Server thread/INFO]: <Uryusango> kon-
+[16:20:50] [Server thread/INFO]: <RabbitCat> おはよー
+[16:21:00] [Server thread/INFO]: <pura1980> ノ
+[16:21:23] [Server thread/INFO]: <Uryusango> サボテンとってきたの使ったー？
+[16:21:47] [Server thread/INFO]: <RabbitCat> おっ砂漠あったのか。まだ見てないな
+[16:21:55] [Server thread/INFO]: <pura1980> 地下帝国から動いてない！
+[16:22:23] [Server thread/INFO]: <Uryusango> 拠点のまわりに焼却炉とかサボテンつくったんじゃが
+[16:23:16] [Server thread/INFO]: <RabbitCat> 焼却炉はミタ。サボテンは気づかなかったわｗ
+[16:24:29] [Server thread/INFO]: <Uryusango> せっかく作ったのにｗ
+[16:25:04] [Server thread/INFO]: <RabbitCat> いうて数日やってなかったからなぁバイト漬けすぎて
+[16:25:29] [Server thread/INFO]: <RabbitCat> カラー羊毛は揃えたいからあとで使わせてもらうぜ
+[16:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[16:25:52] [Server thread/INFO]: <RabbitCat> 今は植林場建築なう
+[16:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[16:26:08] [Server thread/INFO]: <Uryusango> 増やすの？
+[16:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[16:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4785ms or 95 ticks behind
+[16:26:40] [Server thread/INFO]: <RabbitCat> アカシア・ダークオーク・マツがなかったのでそこだけね
+[16:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4359ms or 87 ticks behind
+[16:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
+[16:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4607ms or 92 ticks behind
+[16:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
+[16:28:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2687ms or 53 ticks behind
+[16:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
+[16:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6193ms or 123 ticks behind
+[16:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[16:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
+[16:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
+[16:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3169ms or 63 ticks behind
+[16:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
+[16:30:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3459ms or 69 ticks behind
+[16:31:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
+[16:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[16:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
+[16:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[16:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
+[16:32:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
+[16:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3472ms or 69 ticks behind
+[16:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4849ms or 96 ticks behind
+[16:33:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3896ms or 77 ticks behind
+[16:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4056ms or 81 ticks behind
+[16:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
+[16:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3478ms or 69 ticks behind
+[16:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5443ms or 108 ticks behind
+[16:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
+[16:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5388ms or 107 ticks behind
+[16:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[16:36:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[16:36:51] [Server thread/INFO]: <Uryusango> neru-
+[16:37:18] [Server thread/INFO]: <RabbitCat> 間に合わなかった
+[16:42:38] [Server thread/INFO]: <Uryusango> あと見つかってないのはジャングル？
+[16:42:42] [Server thread/INFO]: <RabbitCat> そだねー
+[16:43:17] [Server thread/INFO]: <RabbitCat> 寝床に地図作ったやつの中ではジャングルは見つからずな感じ
+[16:43:36] [Server thread/INFO]: <Uryusango> 私もみかけてないなぁ
+[16:44:08] [Server thread/INFO]: <RabbitCat> また人数少ない時にでも探検して見つけてくる感じかなー（重くなりそうだから
+[16:44:22] [Server thread/INFO]: <Uryusango> そだねー遺跡もさがしといて
+[16:44:56] [Server thread/INFO]: <RabbitCat> 海底神殿は見つけた。ディスコにかいたやつ。未探索なので行きたい人はどうぞｗ
+[16:44:59] [Server thread/INFO]: [Uryusango: Set own game mode to Creative Mode]
+[16:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:47:28] [Server thread/WARN]: Uryusango moved too quickly! -1.0532835392665163,0.0,10.717882496302991
+[16:47:41] [Server thread/WARN]: Uryusango moved too quickly! -2.7360230808820774,0.0,10.403568539448997
+[16:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10126ms or 202 ticks behind
+[16:48:00] [Server thread/WARN]: Uryusango moved too quickly! 8.903898173604688,0.0,5.878485912923452
+[16:48:12] [Server thread/WARN]: Uryusango moved too quickly! -8.423096963613087,0.0,6.769377032767807
+[16:48:14] [Server thread/WARN]: Uryusango moved too quickly! -9.224122959997565,0.0,4.0567585606149805
+[16:48:16] [Server thread/WARN]: Uryusango moved too quickly! -8.6513384822209,0.0,5.362665904635833
+[16:48:28] [Server thread/INFO]: [Uryusango: Teleported Uryusango to RabbitCat]
+[16:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29770ms or 595 ticks behind
+[16:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17514ms or 350 ticks behind
+[16:49:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4894ms or 97 ticks behind
+[16:49:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
+[16:50:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7867ms or 157 ticks behind
+[16:50:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[16:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
+[16:51:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26886ms or 537 ticks behind
+[16:51:37] [Server thread/INFO]: [Uryusango: Set own game mode to Survival Mode]
+[16:52:03] [Server thread/INFO]: <Uryusango> ぷらＴＴ全然うごかんｗ
+[16:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22831ms or 456 ticks behind
+[16:52:33] [Server thread/INFO]: <pura1980> マルチで人が分散してたらうごかないねぇ・・・・
+[16:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12218ms or 244 ticks behind
+[16:52:46] [Server thread/INFO]: <Uryusango> かなしみｗ
+[16:53:00] [Server thread/INFO]: [Uryusango: Set own game mode to Creative Mode]
+[16:53:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12695ms or 253 ticks behind
+[16:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[16:53:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16782ms or 335 ticks behind
+[16:54:05] [Server thread/INFO]: <pura1980> 製作期間半日の適当ＴＴだしなぁ・・・ｗ
+[16:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21717ms or 434 ticks behind
+[16:54:50] [Server thread/WARN]: RabbitCat moved too quickly! -7.127268353647565,0.0,7.135824910735593
+[16:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27460ms or 549 ticks behind
+[16:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27591ms or 551 ticks behind
+[16:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31683ms or 633 ticks behind
+[16:57:04] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
+[16:57:06] [Server thread/INFO]: Automatic saving is now disabled
+[16:57:07] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:57:08] [Server thread/INFO]: Saved the game
