@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-02-17 10:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-02-16 15:01:36 +0000"
@@ -224,6 +230,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-02-16 14:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-02-17 09:37:54 +0000"
     },
     "done": true
   },
@@ -401,6 +413,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2019-02-16 19:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-02-17 10:35:03 +0000"
     },
     "done": true
   },
@@ -640,6 +658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-02-17 10:35:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-02-16 14:39:00 +0000"
@@ -692,6 +716,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-02-13 15:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-02-17 09:36:56 +0000"
     },
     "done": true
   },
@@ -848,6 +878,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-02-13 15:04:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-02-17 10:27:17 +0000"
     },
     "done": true
   },
@@ -1037,8 +1073,8 @@
       "minecraft:phantom": "2019-02-13 16:02:49 +0000",
       "minecraft:spider": "2019-02-12 20:39:38 +0000",
       "minecraft:zombie": "2019-02-16 13:49:43 +0000",
-      "minecraft:drowned": "2019-02-12 20:54:41 +0000",
-      "minecraft:creeper": "2019-02-16 13:55:27 +0000"
+      "minecraft:creeper": "2019-02-16 13:55:27 +0000",
+      "minecraft:drowned": "2019-02-12 20:54:41 +0000"
     },
     "done": false
   },
@@ -1282,6 +1318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-02-17 09:36:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_rose_red": "2019-02-16 19:48:36 +0000"
@@ -1498,15 +1540,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2019-02-12 20:18:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2019-02-12 20:18:55 +0000"
     },
     "done": true
   },
@@ -1558,9 +1600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-02-17 10:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-02-16 15:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-02-17 10:35:40 +0000"
     },
     "done": true
   },
@@ -1780,6 +1834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2019-02-17 10:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2019-02-13 15:47:19 +0000"
@@ -1819,18 +1879,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-12 20:28:53 +0000",
-      "minecraft:mountains": "2019-02-16 21:16:45 +0000",
       "minecraft:forest": "2019-02-12 20:29:08 +0000",
+      "minecraft:mountains": "2019-02-16 21:16:45 +0000",
       "minecraft:taiga": "2019-02-12 20:37:04 +0000",
       "minecraft:giant_tree_taiga": "2019-02-16 21:42:22 +0000",
       "minecraft:deep_cold_ocean": "2019-02-12 20:30:09 +0000",
+      "minecraft:taiga_hills": "2019-02-17 10:56:25 +0000",
+      "minecraft:deep_frozen_ocean": "2019-02-17 10:33:00 +0000",
       "minecraft:birch_forest": "2019-02-12 20:27:23 +0000",
       "minecraft:warm_ocean": "2019-02-12 20:25:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-02-12 20:25:57 +0000",
       "minecraft:beach": "2019-02-12 20:24:23 +0000",
       "minecraft:dark_forest": "2019-02-12 20:19:05 +0000",
-      "minecraft:lukewarm_ocean": "2019-02-12 20:24:51 +0000",
       "minecraft:river": "2019-02-12 20:23:32 +0000",
+      "minecraft:lukewarm_ocean": "2019-02-12 20:24:51 +0000",
       "minecraft:birch_forest_hills": "2019-02-12 20:27:51 +0000",
       "minecraft:wooded_mountains": "2019-02-16 21:17:20 +0000",
       "minecraft:wooded_hills": "2019-02-12 21:03:04 +0000",
@@ -1909,6 +1971,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-02-17 10:35:03 +0000"
     },
     "done": true
   },
