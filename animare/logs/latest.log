@@ -1,29 +1,108 @@
-[11:01:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:01:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:01:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:01:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:01:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:01:58] [main/INFO]: Loaded 0 recipes
-[11:01:58] [main/INFO]: Loaded 0 advancements
-[11:01:58] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[11:01:58] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[11:01:58] [Server thread/INFO]: Loading properties
-[11:01:58] [Server thread/INFO]: Default game type: SURVIVAL
-[11:01:58] [Server thread/INFO]: Generating keypair
-[11:01:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:02:00] [Server thread/INFO]: Using epoll channel type
-[11:02:00] [Server thread/INFO]: Preparing level "world"
-[11:02:01] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:02:08] [Server thread/INFO]: Loaded 524 recipes
-[11:02:10] [Server thread/INFO]: Loaded 571 advancements
-[11:02:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:02:11] [Server thread/INFO]: Preparing spawn area: 4%
-[11:02:12] [Server thread/INFO]: Preparing spawn area: 8%
-[11:02:13] [Server thread/INFO]: Preparing spawn area: 12%
-[11:02:14] [Server thread/INFO]: Preparing spawn area: 16%
-[11:02:14] [Server thread/INFO]: Preparing spawn area: 20%
-[11:02:15] [Server thread/INFO]: Preparing spawn area: 24%
-[11:02:15] [Server thread/INFO]: Preparing spawn area: 28%
-[11:02:16] [Server thread/INFO]: Preparing spawn area: 32%
-[11:02:16] [Server thread/INFO]: Preparing spawn area: 36%
-[11:02:16] [Server thread/INFO]: Preparing spawn area: 40%
+[11:39:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:39:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:39:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:39:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:39:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:39:20] [main/INFO]: Loaded 0 recipes
+[11:39:20] [main/INFO]: Loaded 0 advancements
+[11:39:20] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[11:39:20] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[11:39:20] [Server thread/INFO]: Loading properties
+[11:39:20] [Server thread/INFO]: Default game type: SURVIVAL
+[11:39:20] [Server thread/INFO]: Generating keypair
+[11:39:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:39:21] [Server thread/INFO]: Using epoll channel type
+[11:39:22] [Server thread/INFO]: Preparing level "world"
+[11:39:22] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:39:24] [Server thread/INFO]: Loaded 524 recipes
+[11:39:30] [Server thread/INFO]: Loaded 571 advancements
+[11:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:39:32] [Server thread/INFO]: Preparing spawn area: 4%
+[11:39:33] [Server thread/INFO]: Preparing spawn area: 8%
+[11:39:33] [Server thread/INFO]: Preparing spawn area: 12%
+[11:39:34] [Server thread/INFO]: Preparing spawn area: 16%
+[11:39:34] [Server thread/INFO]: Preparing spawn area: 20%
+[11:39:34] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
+[11:39:34] [Server thread/INFO]: Preparing spawn area: 24%
+[11:39:34] [Server thread/INFO]: Preparing spawn area: 28%
+[11:39:35] [Server thread/INFO]: Preparing spawn area: 32%
+[11:39:35] [Server thread/INFO]: Preparing spawn area: 36%
+[11:39:35] [Server thread/INFO]: Preparing spawn area: 40%
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[11:39:36] [Server thread/INFO]: Preparing spawn area: 44%
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
+[11:39:36] [Server thread/INFO]: Preparing spawn area: 48%
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[11:39:36] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[11:39:36] [Server thread/INFO]: Preparing spawn area: 52%
+[11:39:39] [Server thread/INFO]: Preparing spawn area: 56%
+[11:39:39] [Server thread/INFO]: Preparing spawn area: 60%
+[11:39:39] [Server thread/INFO]: Preparing spawn area: 64%
+[11:39:40] [Server thread/INFO]: Preparing spawn area: 68%
+[11:39:40] [Server thread/INFO]: Preparing spawn area: 72%
+[11:39:40] [Server thread/INFO]: Preparing spawn area: 76%
+[11:39:41] [Server thread/INFO]: Preparing spawn area: 80%
+[11:39:41] [Server thread/INFO]: Preparing spawn area: 84%
+[11:39:41] [Server thread/INFO]: Preparing spawn area: 88%
+[11:39:41] [Server thread/INFO]: Preparing spawn area: 92%
+[11:39:42] [Server thread/INFO]: Preparing spawn area: 96%
+[11:39:42] [Server thread/INFO]: Preparing spawn area: 100%
+[11:39:42] [Server thread/INFO]: Time elapsed: 11002 ms
+[11:39:42] [Server thread/INFO]: Done (19.804s)! For help, type "help"
+[11:39:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[11:40:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44564ms or 891 ticks behind
+[11:47:30] [User Authenticator #1/INFO]: UUID of player Uryusango is b672eb7b-974a-47c4-af38-50ab9911398b
+[11:47:30] [Server thread/INFO]: Uryusango[/115.163.178.51:51233] logged in with entity id 547 at (634.7538665793339, 80.5406180337391, -763.6667454332309)
+[11:47:30] [Server thread/INFO]: Uryusango joined the game
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:salmon that already exists with UUID 68979d6a-ed37-42ae-8004-70f5dc8dc6e4
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:salmon that already exists with UUID 4e561e48-3159-40fa-92df-efc88cabf397
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:guardian that already exists with UUID d41be6f1-ab8e-42ef-9c5a-8731661fe1e3
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:salmon that already exists with UUID 66ef41fc-6a95-45d8-83ce-26f5bf2265f0
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:guardian that already exists with UUID b20131cc-db54-4460-9c7a-2ce079203202
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:guardian that already exists with UUID 33a623ba-3720-4b0e-8403-d312c8f76c57
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:cod that already exists with UUID d641837e-9db1-4a74-ad88-3a451e2ae08d
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:cod that already exists with UUID 5a98094a-28ff-4a50-8221-4df440704561
+[11:47:31] [Server thread/WARN]: Keeping entity minecraft:salmon that already exists with UUID b1ad03ea-e57e-4e74-82bc-d8d7dafdd875
+[11:47:32] [Server thread/WARN]: Keeping entity minecraft:salmon that already exists with UUID eeb35ffc-522f-4fcb-93b9-3d89f8e0107e
+[11:47:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5661ms or 113 ticks behind
+[11:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[11:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6058ms or 121 ticks behind
+[11:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7704ms or 154 ticks behind
+[11:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5797ms or 115 ticks behind
+[11:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
+[11:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[11:54:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4594ms or 91 ticks behind
+[11:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3261ms or 65 ticks behind
+[11:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12010ms or 240 ticks behind
+[11:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10718ms or 214 ticks behind
+[11:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8206ms or 164 ticks behind
+[11:56:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8810ms or 176 ticks behind
+[11:56:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
+[11:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3696ms or 73 ticks behind
+[11:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
+[11:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3509ms or 70 ticks behind
+[11:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[11:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4893ms or 97 ticks behind
+[11:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5742ms or 114 ticks behind
+[11:58:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4064ms or 81 ticks behind
+[11:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4605ms or 92 ticks behind
+[11:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3407ms or 68 ticks behind
+[11:59:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9512ms or 190 ticks behind
+[12:00:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10511ms or 210 ticks behind
+[12:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9414ms or 188 ticks behind
+[12:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7597ms or 151 ticks behind
+[12:01:07] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
+[12:01:11] [Server thread/INFO]: Automatic saving is now disabled
+[12:01:15] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:01:16] [Server thread/INFO]: Saved the game
+[12:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16059ms or 321 ticks behind
