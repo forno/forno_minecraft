@@ -1,98 +1,68 @@
-[13:37:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:37:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:37:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:37:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:37:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:37:30] [main/INFO]: Loaded 0 recipes
-[13:37:30] [main/INFO]: Loaded 0 advancements
-[13:37:30] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[13:37:30] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[13:37:30] [Server thread/INFO]: Loading properties
-[13:37:30] [Server thread/INFO]: Default game type: SURVIVAL
-[13:37:30] [Server thread/INFO]: Generating keypair
-[13:37:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:37:32] [Server thread/INFO]: Using epoll channel type
-[13:37:32] [Server thread/INFO]: Preparing level "world"
-[13:37:32] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:37:38] [Server thread/INFO]: Loaded 524 recipes
-[13:37:40] [Server thread/INFO]: Loaded 571 advancements
-[13:37:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:37:41] [Server thread/INFO]: Preparing spawn area: 4%
-[13:37:41] [Server thread/INFO]: Preparing spawn area: 8%
-[13:37:42] [Server thread/INFO]: Preparing spawn area: 12%
-[13:37:42] [Server thread/INFO]: Preparing spawn area: 16%
-[13:37:42] [Server thread/INFO]: Preparing spawn area: 20%
-[13:37:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
-[13:37:42] [Server thread/INFO]: Preparing spawn area: 24%
-[13:37:43] [Server thread/INFO]: Preparing spawn area: 28%
-[13:37:43] [Server thread/INFO]: Preparing spawn area: 32%
-[13:37:43] [Server thread/INFO]: Preparing spawn area: 36%
-[13:37:43] [Server thread/INFO]: Preparing spawn area: 40%
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[13:37:44] [Server thread/INFO]: Preparing spawn area: 44%
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
-[13:37:44] [Server thread/INFO]: Preparing spawn area: 48%
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
-[13:37:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
-[13:37:44] [Server thread/INFO]: Preparing spawn area: 52%
-[13:37:47] [Server thread/INFO]: Preparing spawn area: 56%
-[13:37:47] [Server thread/INFO]: Preparing spawn area: 60%
-[13:37:47] [Server thread/INFO]: Preparing spawn area: 64%
-[13:37:47] [Server thread/INFO]: Preparing spawn area: 68%
-[13:37:47] [Server thread/INFO]: Preparing spawn area: 72%
-[13:37:48] [Server thread/INFO]: Preparing spawn area: 76%
-[13:37:48] [Server thread/INFO]: Preparing spawn area: 80%
-[13:37:48] [Server thread/INFO]: Preparing spawn area: 84%
-[13:37:48] [Server thread/INFO]: Preparing spawn area: 88%
-[13:37:48] [Server thread/INFO]: Preparing spawn area: 92%
-[13:37:48] [Server thread/INFO]: Preparing spawn area: 96%
-[13:37:49] [Server thread/INFO]: Preparing spawn area: 100%
-[13:37:49] [Server thread/INFO]: Time elapsed: 8398 ms
-[13:37:49] [Server thread/INFO]: Done (16.505s)! For help, type "help"
-[13:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
-[13:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34708ms or 694 ticks behind
-[13:51:13] [Server thread/INFO]: [STDERR]: java.io.IOException: No space left on device
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.writeBytes(Native Method)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.write(FileOutputStream.java:313)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at hi.a(SourceFile:34)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at cbz.a(SourceFile:128)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at cbv.a(SourceFile:33)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at td.a(SourceFile:771)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at td.a(SourceFile:723)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:508)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:699)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
-[13:51:13] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:748)
-[13:51:58] [Server thread/INFO]: [STDERR]: java.io.IOException: No space left on device
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.writeBytes(Native Method)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at java.io.FileOutputStream.write(FileOutputStream.java:313)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at hi.a(SourceFile:34)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at cbz.a(SourceFile:128)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at cbv.a(SourceFile:33)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at td.a(SourceFile:771)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at td.a(SourceFile:723)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:508)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.a(SourceFile:699)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
-[13:51:58] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:748)
-[13:52:43] [[13:53:29] [Server thread/INFO]: [Server] [System] We SHUTDOWN this server soon. 60 seconds left.
-[13:54:31] [Server console handler/ERROR]: Exception handling console input
+[15:33:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:33:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:33:32] [main/INFO]: Loaded 0 recipes
+[15:33:32] [main/INFO]: Loaded 0 advancements
+[15:33:32] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[15:33:32] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[15:33:32] [Server thread/INFO]: Loading properties
+[15:33:32] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:32] [Server thread/INFO]: Generating keypair
+[15:33:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:34] [Server thread/INFO]: Using epoll channel type
+[15:33:35] [Server thread/INFO]: Preparing level "world"
+[15:33:35] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:33:36] [Server thread/INFO]: Loaded 524 recipes
+[15:33:38] [Server thread/INFO]: Loaded 571 advancements
+[15:33:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:33:39] [Server thread/INFO]: Preparing spawn area: 4%
+[15:33:40] [Server thread/INFO]: Preparing spawn area: 8%
+[15:33:40] [Server thread/INFO]: Preparing spawn area: 12%
+[15:33:40] [Server thread/INFO]: Preparing spawn area: 16%
+[15:33:40] [Server thread/INFO]: Preparing spawn area: 20%
+[15:33:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
+[15:33:41] [Server thread/INFO]: Preparing spawn area: 24%
+[15:33:41] [Server thread/INFO]: Preparing spawn area: 28%
+[15:33:41] [Server thread/INFO]: Preparing spawn area: 32%
+[15:33:41] [Server thread/INFO]: Preparing spawn area: 36%
+[15:33:41] [Server thread/INFO]: Preparing spawn area: 40%
+[15:33:41] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[15:33:41] [Server thread/INFO]: Preparing spawn area: 44%
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
+[15:33:42] [Server thread/INFO]: Preparing spawn area: 48%
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[15:33:42] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
+[15:33:42] [Server thread/INFO]: Preparing spawn area: 52%
+[15:33:43] [Server thread/INFO]: Preparing spawn area: 56%
+[15:33:44] [Server thread/INFO]: Preparing spawn area: 60%
+[15:33:44] [Server thread/INFO]: Preparing spawn area: 64%
+[15:33:44] [Server thread/INFO]: Preparing spawn area: 68%
+[15:33:44] [Server thread/INFO]: Preparing spawn area: 72%
+[15:33:44] [Server thread/INFO]: Preparing spawn area: 76%
+[15:33:44] [Server thread/INFO]: Preparing spawn area: 80%
+[15:33:45] [Server thread/INFO]: Preparing spawn area: 84%
+[15:33:45] [Server thread/INFO]: Preparing spawn area: 88%
+[15:33:45] [Server thread/INFO]: Preparing spawn area: 92%
+[15:33:45] [Server thread/INFO]: Preparing spawn area: 96%
+[15:33:45] [Server thread/INFO]: Preparing spawn area: 100%
+[15:33:45] [Server thread/INFO]: Time elapsed: 6582 ms
+[15:33:45] [Server thread/INFO]: Done (10.618s)! For help, type "help"
+[15:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[15:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4885ms or 97 ticks behind
+[15:34:48] [Server thread/INFO]: [Server] [System] We SHUTDOWN this server soon. 60 seconds left.
+[15:35:49] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Input/output error
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
 	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_191]
@@ -106,4 +76,6 @@ java.io.IOException: Input/output error
 	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_191]
 	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_191]
 	at so$2.run(SourceFile:110) [server.jar:?]
-[13:54:31] [Server Shutdown Thread/INFO]: Stopping server
+[15:35:49] [Server Shutdown Thread/INFO]: Stopping server
+[15:35:49] [Server Shutdown Thread/INFO]: Saving players
+[15:35:49] [Server Shutdown Thread/INFO]: Saving worlds
