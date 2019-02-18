@@ -1,195 +1,79 @@
-[16:19:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:19:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:19:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:19:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:19:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:19:26] [main/INFO]: Loaded 0 recipes
-[16:19:26] [main/INFO]: Loaded 0 advancements
-[16:19:26] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[16:19:26] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[16:19:26] [Server thread/INFO]: Loading properties
-[16:19:26] [Server thread/INFO]: Default game type: SURVIVAL
-[16:19:26] [Server thread/INFO]: Generating keypair
-[16:19:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:19:26] [Server thread/INFO]: Using epoll channel type
-[16:19:27] [Server thread/INFO]: Preparing level "world"
-[16:19:27] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:19:29] [Server thread/INFO]: Loaded 524 recipes
-[16:19:30] [Server thread/INFO]: Loaded 571 advancements
-[16:19:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:19:31] [Server thread/INFO]: Preparing spawn area: 4%
-[16:19:31] [Server thread/INFO]: Preparing spawn area: 8%
-[16:19:31] [Server thread/INFO]: Preparing spawn area: 12%
-[16:19:31] [Server thread/INFO]: Preparing spawn area: 16%
-[16:19:31] [Server thread/INFO]: Preparing spawn area: 20%
-[16:19:31] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
-[16:19:32] [Server thread/INFO]: Preparing spawn area: 24%
-[16:19:32] [Server thread/INFO]: Preparing spawn area: 28%
-[16:19:32] [Server thread/INFO]: Preparing spawn area: 32%
-[16:19:32] [Server thread/INFO]: Preparing spawn area: 36%
-[16:19:32] [Server thread/INFO]: Preparing spawn area: 40%
-[16:19:33] [Server thread/INFO]: Preparing spawn area: 44%
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:19:33] [Server thread/INFO]: Preparing spawn area: 48%
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
-[16:19:33] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
-[16:19:33] [Server thread/INFO]: Preparing spawn area: 52%
-[16:19:34] [Server thread/INFO]: Preparing spawn area: 56%
-[16:19:34] [Server thread/INFO]: Preparing spawn area: 60%
-[16:19:34] [Server thread/INFO]: Preparing spawn area: 64%
-[16:19:34] [Server thread/INFO]: Preparing spawn area: 68%
-[16:19:34] [Server thread/INFO]: Preparing spawn area: 72%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 76%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 80%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 84%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 88%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 92%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 96%
-[16:19:35] [Server thread/INFO]: Preparing spawn area: 100%
-[16:19:35] [Server thread/INFO]: Time elapsed: 4926 ms
-[16:19:35] [Server thread/INFO]: Done (8.530s)! For help, type "help"
-[16:19:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[16:21:09] [User Authenticator #1/INFO]: UUID of player RabbitCat is ef5cdb63-029a-4218-bb12-8f18f61f7c68
-[16:21:09] [Server thread/INFO]: RabbitCat[/202.229.208.119:59290] logged in with entity id 584 at (73.55882737819263, 58.0, 0.6999999880790712)
-[16:21:09] [Server thread/INFO]: RabbitCat joined the game
-[16:21:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[16:21:11] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[16:21:11] [Server thread/INFO]: Found that there's a dragon still alive (ald['Ender Dragon'/669, l='world', x=63.27, y=80.16, z=-26.20])
-[16:21:11] [Server thread/INFO]: But we didn't have a portal, let's remove it.
-[16:22:00] [User Authenticator #2/INFO]: UUID of player Uryusango is b672eb7b-974a-47c4-af38-50ab9911398b
-[16:22:01] [Server thread/INFO]: Uryusango[/115.163.178.51:58813] logged in with entity id 747 at (705.3710507978934, 61.65589368593012, -845.3815986079388)
-[16:22:01] [Server thread/INFO]: Uryusango joined the game
-[16:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[16:22:15] [Server thread/INFO]: RabbitCat blew up
-[16:23:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4554ms or 91 ticks behind
-[16:24:37] [Server thread/INFO]: <RabbitCat> うりゅさんうごけてそう？
-[16:24:46] [Server thread/INFO]: <Uryusango> un-
-[16:25:20] [User Authenticator #3/INFO]: UUID of player FORNya is 5402b13f-5462-4416-bfe5-12cea1cec9ea
-[16:25:20] [Server thread/INFO]: FORNya[/110.4.143.238:60491] logged in with entity id 6214 at (-206.2954346928135, 63.5625, 188.11526284594126)
-[16:25:20] [Server thread/INFO]: FORNya joined the game
-[16:25:20] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:25:31] [Server thread/INFO]: [FORNya: Teleported FORNya to RabbitCat]
-[16:25:56] [Server thread/INFO]: [FORNya: Teleported FORNya to RabbitCat]
-[16:26:10] [Server thread/INFO]: [FORNya: Set own game mode to Creative Mode]
-[16:26:49] [Server thread/INFO]: [FORNya: Set own game mode to Spectator Mode]
-[16:27:48] [Server thread/INFO]: <FORNya> これは噂の隠し…
-[16:28:11] [Server thread/INFO]: [FORNya: Teleported FORNya to Uryusango]
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.8763440820403,-4.0,-1000.0756662966892
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.8763440820403,-4.0,-1000.0756662966892
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.7812242257423,-4.0,-1000.0520821618125
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.6769196380827,-4.0,-999.9540144422132
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.567600186517,-4.0,-999.8152786806318
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.4555426189406,-4.0,-999.654338165549
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.3419900398487,-4.0,-999.4812738536463
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.2276211843746,-4.0,-999.3015899479109
-[16:28:11] [Server thread/WARN]: FORNya moved too quickly! 971.112806641944,-4.0,-999.1182917435231
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.9977487544069,-4.0,-998.9330201318419
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.9349271405147,-4.0,-998.8318618201141
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.9006265353455,-4.0,-998.7766293754953
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8818984027478,-4.0,-998.7464724572307
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8818984027478,-4.0,-998.7464724572307
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8818984027478,-4.0,-998.7464724572307
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:12] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 970.8630412796612,-4.0,-998.7161078324257
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 970.944263366806,-4.0,-998.7709436921118
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.0469363170989,-4.0,-998.8796375612538
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.1556713592904,-4.0,-999.0216238690433
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.2668737663123,-4.0,-999.1823188980284
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.4920362136417,-4.0,-999.5301330689526
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.6049339549675,-4.0,-999.7101543173846
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.7179219056579,-4.0,-999.891918137634
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.8307188145416,-4.0,-1000.0747807374373
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 971.9418149526052,-4.0,-1000.2591982863679
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.0483717469725,-4.0,-1000.4464774853088
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.2423736598134,-4.0,-1000.831290408473
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.3303348947749,-4.0,-1001.0280847742499
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.4201756670016,-4.0,-1001.255877159964
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.5010958733762,-4.0,-1001.5036019082889
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.5715447929163,-4.0,-1001.7635225052635
-[16:28:13] [Server thread/WARN]: FORNya moved too quickly! 972.6295245501087,-4.0,-1002.0313356960588
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 972.6831006886496,-4.0,-1002.5814028265777
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 972.6157169552289,-4.0,-1003.1280806045875
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 972.7807240013412,-4.0,-1003.4907221772942
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 972.964452671983,-4.0,-1003.752326613992
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 972.9998811757698,-4.0,-1003.8027719459251
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0192251410841,-4.0,-1003.8303151003597
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0192251410841,-4.0,-1003.8303151003597
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:14] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:15] [Server thread/WARN]: FORNya moved too quickly! 973.0387023384508,-4.0,-1003.85804795897
-[16:28:17] [Server thread/INFO]: [FORNya: Teleported FORNya to Uryusango]
-[16:30:20] [User Authenticator #4/INFO]: UUID of player pura1980 is b06fd1cb-bf81-44e9-ad8b-001e954b7932
-[16:30:21] [Server thread/INFO]: pura1980[/133.137.7.241:58075] logged in with entity id 17405 at (-128.87993785571936, 62.7125, 122.5)
-[16:30:21] [Server thread/INFO]: pura1980 joined the game
-[16:30:21] [Server thread/WARN]: Keeping entity minecraft:minecart that already exists with UUID 949f2c42-271a-4072-8458-1ee9e0bcc6d6
-[16:30:48] [Server thread/INFO]: [FORNya: Teleported FORNya to RabbitCat]
-[16:30:52] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:30:58] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:32:34] [Server thread/INFO]: [FORNya: Teleported FORNya to pura1980]
-[16:32:34] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:34] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:34] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:34] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:35] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:36] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:36] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:36] [Server thread/WARN]: FORNya moved too quickly! 85.14685215997494,1.0,31.37971084219072
-[16:32:39] [Server thread/INFO]: [FORNya: Teleported FORNya to pura1980]
-[16:32:42] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:33:04] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[16:33:05] [Server thread/INFO]: Automatic saving is now disabled
-[16:33:06] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:33:06] [Server thread/INFO]: Saved the game
+[16:34:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:34:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:34:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:34:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:34:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:34:59] [main/INFO]: Loaded 0 recipes
+[16:34:59] [main/INFO]: Loaded 0 advancements
+[16:34:59] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[16:34:59] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[16:34:59] [Server thread/INFO]: Loading properties
+[16:34:59] [Server thread/INFO]: Default game type: SURVIVAL
+[16:34:59] [Server thread/INFO]: Generating keypair
+[16:34:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:34:59] [Server thread/INFO]: Using epoll channel type
+[16:34:59] [Server thread/INFO]: Preparing level "world"
+[16:34:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:35:00] [Server thread/INFO]: Loaded 524 recipes
+[16:35:01] [Server thread/INFO]: Loaded 571 advancements
+[16:35:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:35:01] [Server thread/INFO]: Preparing spawn area: 4%
+[16:35:01] [Server thread/INFO]: Preparing spawn area: 8%
+[16:35:01] [Server thread/INFO]: Preparing spawn area: 12%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 16%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 20%
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 24%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 28%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 32%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 36%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 40%
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 44%
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 48%
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
+[16:35:02] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[16:35:02] [Server thread/INFO]: Preparing spawn area: 52%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 56%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 60%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 64%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 68%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 72%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 76%
+[16:35:03] [Server thread/INFO]: Preparing spawn area: 80%
+[16:35:04] [Server thread/INFO]: Preparing spawn area: 84%
+[16:35:04] [Server thread/INFO]: Preparing spawn area: 88%
+[16:35:04] [Server thread/INFO]: Preparing spawn area: 92%
+[16:35:04] [Server thread/INFO]: Preparing spawn area: 96%
+[16:35:04] [Server thread/INFO]: Preparing spawn area: 100%
+[16:35:04] [Server thread/INFO]: Time elapsed: 2780 ms
+[16:35:04] [Server thread/INFO]: Done (4.560s)! For help, type "help"
+[16:35:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[16:35:50] [Server thread/INFO]: [Server] [System] We SHUTDOWN this server soon. 60 seconds left.
+[16:36:52] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_191]
+	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_191]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_191]
+	at so$2.run(SourceFile:110) [server.jar:?]
+[16:36:52] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN. Saving map...
+[16:36:52] [Server thread/INFO]: Saving the game (this may take a moment!)
