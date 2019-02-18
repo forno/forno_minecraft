@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-02-18 17:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-01-18 20:20:45 +0000"
@@ -1577,6 +1583,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2019-01-24 22:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-02-18 17:38:53 +0000"
     },
     "done": true
   },
