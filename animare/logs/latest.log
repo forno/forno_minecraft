@@ -1,262 +1,65 @@
-[16:43:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:43:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:43:35] [main/INFO]: Loaded 0 recipes
-[16:43:35] [main/INFO]: Loaded 0 advancements
-[16:43:35] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[16:43:35] [Server thread/INFO]: Loading properties
-[16:43:35] [Server thread/INFO]: Default game type: SURVIVAL
-[16:43:35] [Server thread/INFO]: Generating keypair
-[16:43:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:43:35] [Server thread/INFO]: Using epoll channel type
-[16:43:36] [Server thread/INFO]: Preparing level "world"
-[16:43:36] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:43:37] [Server thread/INFO]: Loaded 524 recipes
-[16:43:38] [Server thread/INFO]: Loaded 571 advancements
-[16:43:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 4%
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 8%
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 12%
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 16%
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 20%
-[16:43:39] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 24%
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 28%
-[16:43:39] [Server thread/INFO]: Preparing spawn area: 32%
-[16:43:40] [Server thread/INFO]: Preparing spawn area: 36%
-[16:43:40] [Server thread/INFO]: Preparing spawn area: 40%
-[16:43:40] [Server thread/INFO]: Preparing spawn area: 44%
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:43:40] [Server thread/INFO]: Preparing spawn area: 48%
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
-[16:43:40] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
-[16:43:40] [Server thread/INFO]: Preparing spawn area: 52%
-[16:43:41] [Server thread/INFO]: Preparing spawn area: 56%
-[16:43:44] [Server thread/INFO]: Preparing spawn area: 60%
-[16:43:44] [Server thread/INFO]: Preparing spawn area: 64%
-[16:43:44] [Server thread/INFO]: Preparing spawn area: 68%
-[16:43:44] [Server thread/INFO]: Preparing spawn area: 72%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 76%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 80%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 84%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 88%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 92%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 96%
-[16:43:45] [Server thread/INFO]: Preparing spawn area: 100%
-[16:43:45] [Server thread/INFO]: Time elapsed: 6862 ms
-[16:43:45] [Server thread/INFO]: Done (9.514s)! For help, type "help"
-[16:43:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[16:45:12] [User Authenticator #1/INFO]: UUID of player RabbitCat is ef5cdb63-029a-4218-bb12-8f18f61f7c68
-[16:45:13] [Server thread/INFO]: RabbitCat[/202.229.208.119:60908] logged in with entity id 684 at (-261.9103305909875, 62.0, 150.8816730590466)
-[16:45:13] [Server thread/INFO]: RabbitCat joined the game
-[16:46:19] [User Authenticator #2/INFO]: UUID of player Uryusango is b672eb7b-974a-47c4-af38-50ab9911398b
-[16:46:19] [Server thread/INFO]: Uryusango[/115.163.178.51:59774] logged in with entity id 1691 at (711.725185514057, 63.0, -823.4461409077721)
-[16:46:19] [Server thread/INFO]: Uryusango joined the game
-[16:49:26] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:50:28] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:54:19] [User Authenticator #3/INFO]: UUID of player FORNya is 5402b13f-5462-4416-bfe5-12cea1cec9ea
-[16:54:19] [Server thread/INFO]: FORNya[/110.4.143.238:60930] logged in with entity id 16602 at (-173.1275765832493, 63.0, 112.02087783335338)
-[16:54:19] [Server thread/INFO]: FORNya joined the game
-[16:55:02] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:55:04] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:56:20] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:56:34] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[16:58:42] [Server thread/INFO]: [FORNya: Teleported FORNya to RabbitCat]
-[16:58:47] [Server thread/INFO]: [FORNya: Teleported FORNya to Uryusango]
-[17:03:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[17:03:04] [Server thread/INFO]: Automatic saving is now disabled
-[17:03:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:03:05] [Server thread/INFO]: Saved the game
-[17:03:19] [Server thread/INFO]: Automatic saving is now enabled
-[17:03:20] [Server thread/INFO]: Unknown command
-[17:03:20] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[17:08:09] [Server thread/INFO]: [FORNya: Teleported FORNya to RabbitCat]
-[17:08:13] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[17:08:16] [Server thread/INFO]: FORNya lost connection: Disconnected
-[17:08:16] [Server thread/INFO]: FORNya left the game
-[17:21:23] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[17:33:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[17:33:03] [Server thread/INFO]: Automatic saving is now disabled
-[17:33:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:33:05] [Server thread/INFO]: Saved the game
-[17:33:18] [Server thread/INFO]: Automatic saving is now enabled
-[17:33:19] [Server thread/INFO]: Unknown command
-[17:33:19] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[17:38:19] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[17:51:09] [Server thread/INFO]: [Uryusango: Teleported Uryusango to RabbitCat]
-[17:51:45] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[17:51:55] [Server thread/INFO]: Uryusango lost connection: Disconnected
-[17:51:55] [Server thread/INFO]: Uryusango left the game
-[18:03:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[18:03:04] [Server thread/INFO]: Automatic saving is now disabled
-[18:03:05] [Server thread/INFO]: Saving the game (this may take a moment!)
-[18:03:05] [Server thread/INFO]: Saved the game
-[18:03:19] [Server thread/INFO]: Automatic saving is now enabled
-[18:03:20] [Server thread/INFO]: Unknown command
-[18:03:20] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[18:26:05] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[18:26:46] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[18:49:10] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[18:52:23] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[18:53:46] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[18:53:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
-[18:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37315ms or 746 ticks behind
-[18:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14197ms or 283 ticks behind
-[18:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[18:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29390ms or 587 ticks behind
-[18:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33572ms or 671 ticks behind
-[18:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33250ms or 665 ticks behind
-[18:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29897ms or 597 ticks behind
-[19:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[19:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29153ms or 583 ticks behind
-[19:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30607ms or 612 ticks behind
-[19:03:10] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[19:03:20] [Server thread/INFO]: Automatic saving is now disabled
-[19:03:28] [Server thread/INFO]: Saving the game (this may take a moment!)
-[19:03:29] [Server thread/INFO]: Saved the game
-[19:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36374ms or 727 ticks behind
-[19:04:05] [Server thread/INFO]: Automatic saving is now enabled
-[19:04:14] [Server thread/INFO]: Unknown command
-[19:04:14] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[19:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 43796ms or 875 ticks behind
-[19:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8796ms or 175 ticks behind
-[19:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
-[19:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29281ms or 585 ticks behind
-[19:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30161ms or 603 ticks behind
-[19:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32612ms or 652 ticks behind
-[19:09:29] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32596ms or 651 ticks behind
-[19:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19522ms or 390 ticks behind
-[19:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[19:12:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30123ms or 602 ticks behind
-[19:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29341ms or 586 ticks behind
-[19:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29138ms or 582 ticks behind
-[19:14:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33156ms or 663 ticks behind
-[19:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18902ms or 378 ticks behind
-[19:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7454ms or 149 ticks behind
-[19:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8969ms or 179 ticks behind
-[19:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6754ms or 135 ticks behind
-[19:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9175ms or 183 ticks behind
-[19:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11652ms or 233 ticks behind
-[19:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10101ms or 202 ticks behind
-[19:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11016ms or 220 ticks behind
-[19:20:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
-[19:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[19:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10177ms or 203 ticks behind
-[19:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10279ms or 205 ticks behind
-[19:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8830ms or 176 ticks behind
-[19:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9164ms or 183 ticks behind
-[19:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9929ms or 198 ticks behind
-[19:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10892ms or 217 ticks behind
-[19:24:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8178ms or 163 ticks behind
-[19:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
-[19:25:27] [User Authenticator #4/INFO]: UUID of player FORNya is 5402b13f-5462-4416-bfe5-12cea1cec9ea
-[19:25:27] [Server thread/INFO]: FORNya[/126.125.52.65:4090] logged in with entity id 203288 at (-266.0667961879145, 65.0, 145.1071745405631)
-[19:25:27] [Server thread/INFO]: FORNya joined the game
-[19:25:42] [Server thread/INFO]: FORNya lost connection: Disconnected
-[19:25:42] [Server thread/INFO]: FORNya left the game
-[19:26:46] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[19:27:22] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13203ms or 264 ticks behind
-[19:27:49] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12399ms or 247 ticks behind
-[19:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11078ms or 221 ticks behind
-[19:28:41] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11624ms or 232 ticks behind
-[19:29:08] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13917ms or 278 ticks behind
-[19:29:27] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14592ms or 291 ticks behind
-[19:29:59] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10971ms or 219 ticks behind
-[19:31:22] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:31:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:32:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7282ms or 145 ticks behind
-[19:32:26] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14393ms or 287 ticks behind
-[19:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12808ms or 256 ticks behind
-[19:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7317ms or 146 ticks behind
-[19:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8911ms or 178 ticks behind
-[19:34:11] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:34:18] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:34:26] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11327ms or 226 ticks behind
-[19:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9320ms or 186 ticks behind
-[19:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[19:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9950ms or 199 ticks behind
-[19:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7934ms or 158 ticks behind
-[19:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8105ms or 162 ticks behind
-[19:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9013ms or 180 ticks behind
-[19:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8187ms or 163 ticks behind
-[19:39:23] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12995ms or 259 ticks behind
-[19:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11369ms or 227 ticks behind
-[19:40:08] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6017ms or 120 ticks behind
-[19:40:12] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
-[19:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[19:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14605ms or 292 ticks behind
-[19:42:24] [Server thread/INFO]: RabbitCat lost connection: Disconnected
-[19:42:24] [Server thread/INFO]: RabbitCat left the game
-[19:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5798ms or 115 ticks behind
-[20:03:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[20:03:04] [Server thread/INFO]: Automatic saving is now disabled
-[20:03:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:03:05] [Server thread/INFO]: Saved the game
-[20:03:17] [Server thread/INFO]: Automatic saving is now enabled
-[20:03:18] [Server thread/INFO]: Unknown command
-[20:03:18] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[21:03:02] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
-[21:03:03] [Server thread/INFO]: Automatic saving is now disabled
-[21:03:04] [Server thread/INFO]: Saving the game (this may take a moment!)
-[21:03:04] [Server thread/INFO]: Saved the game
-[21:03:17] [Server thread/INFO]: Automatic saving is now enabled
-[21:03:17] [Server thread/INFO]: Unknown command
-[21:03:17] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
-[22:00:04] [Server thread/INFO]: [Server] [System] We SHUTDOWN this server soon. 60 seconds left.
-[22:01:03] [Server thread/INFO]: [Server] [System] We SHUTDOWN this server soon. 60 seconds left.
-[22:01:12] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_191]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_191]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_191]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_191]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_191]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_191]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_191]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_191]
-	at so$2.run(SourceFile:110) [server.jar:?]
-[22:01:12] [Server Shutdown Thread/INFO]: Stopping server
-[22:01:12] [Server Shutdown Thread/INFO]: Saving players
-[22:01:12] [Server Shutdown Thread/INFO]: Saving worlds
-[22:01:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:01:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:01:12] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:01:12] [Server thread/INFO]: [Server] SERVER SHUTTING DOWN. Saving map...
-[22:01:12] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:01:12] [Server thread/INFO]: Saved the game
-[22:01:12] [Server thread/INFO]: Stopping the server
-[22:01:12] [Server thread/INFO]: Stopping server
-[22:01:12] [Server thread/INFO]: Saving players
-[22:01:12] [Server thread/INFO]: Saving worlds
-[22:01:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:01:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:01:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[10:02:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:02:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:02:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:02:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:02:00] [main/INFO]: Loaded 0 recipes
+[10:02:00] [main/INFO]: Loaded 0 advancements
+[10:02:00] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[10:02:00] [Server thread/INFO]: Loading properties
+[10:02:00] [Server thread/INFO]: Default game type: SURVIVAL
+[10:02:00] [Server thread/INFO]: Generating keypair
+[10:02:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:02:01] [Server thread/INFO]: Using epoll channel type
+[10:02:02] [Server thread/INFO]: Preparing level "world"
+[10:02:02] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:02:03] [Server thread/INFO]: Loaded 524 recipes
+[10:02:04] [Server thread/INFO]: Loaded 571 advancements
+[10:02:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:02:05] [Server thread/INFO]: Preparing spawn area: 4%
+[10:02:08] [Server thread/INFO]: Preparing spawn area: 8%
+[10:02:09] [Server thread/INFO]: Preparing spawn area: 12%
+[10:02:09] [Server thread/INFO]: Preparing spawn area: 16%
+[10:02:09] [Server thread/INFO]: Preparing spawn area: 20%
+[10:02:09] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 81ea1ce6-edd7-44b7-ba54-d94cb3a73f7e
+[10:02:09] [Server thread/INFO]: Preparing spawn area: 24%
+[10:02:09] [Server thread/INFO]: Preparing spawn area: 28%
+[10:02:09] [Server thread/INFO]: Preparing spawn area: 32%
+[10:02:10] [Server thread/INFO]: Preparing spawn area: 36%
+[10:02:10] [Server thread/INFO]: Preparing spawn area: 40%
+[10:02:10] [Server thread/INFO]: Preparing spawn area: 44%
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[10:02:10] [Server thread/INFO]: Preparing spawn area: 48%
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 606dcc16-03de-41aa-91d2-5cdac382f9bc
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b08fc286-1b0f-46f1-a90d-0ff5ca10b682
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID af5d4fd9-f248-44d0-be8b-adeccb4dcd84
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID d998e7f4-213e-4e91-90dc-ae7b8f03162f
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 50311411-52b0-4f9e-93a5-dbf7292ab560
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 08144b9e-8c57-4940-bacc-32c8be4ceed9
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 9f082942-a74b-4997-af08-912ee0ec2670
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID c3d5639b-7072-46ff-9402-855b2a430118
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 64ccc957-835c-4e96-a8c1-f9b84b0a27c2
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID b1765abb-8ea5-49f7-ae1b-e88eab89c1c9
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID a8fda202-ad1d-400b-be6b-304415fee9a9
+[10:02:10] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID f321746b-c9f9-4592-8f66-6a8732b396a8
+[10:02:10] [Server thread/INFO]: Preparing spawn area: 52%
+[10:02:12] [Server thread/INFO]: Preparing spawn area: 56%
+[10:02:12] [Server thread/INFO]: Preparing spawn area: 60%
+[10:02:12] [Server thread/INFO]: Preparing spawn area: 64%
+[10:02:12] [Server thread/INFO]: Preparing spawn area: 68%
+[10:02:12] [Server thread/INFO]: Preparing spawn area: 72%
+[10:02:12] [Server thread/INFO]: Preparing spawn area: 76%
+[10:02:13] [Server thread/INFO]: Preparing spawn area: 80%
+[10:02:13] [Server thread/INFO]: Preparing spawn area: 84%
+[10:02:13] [Server thread/INFO]: Preparing spawn area: 88%
+[10:02:13] [Server thread/INFO]: Preparing spawn area: 92%
+[10:02:13] [Server thread/INFO]: Preparing spawn area: 96%
+[10:02:13] [Server thread/INFO]: Preparing spawn area: 100%
+[10:02:13] [Server thread/INFO]: Time elapsed: 8513 ms
+[10:02:13] [Server thread/INFO]: Done (11.532s)! For help, type "help"
+[10:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[10:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[10:03:04] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
+[10:03:05] [Server thread/INFO]: Automatic saving is now disabled
+[10:03:07] [Server thread/INFO]: Saving the game (this may take a moment!)
+[10:03:07] [Server thread/INFO]: Saved the game
