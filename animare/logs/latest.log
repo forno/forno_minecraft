@@ -191,3 +191,120 @@
 [15:03:04] [Server thread/INFO]: Automatic saving is now disabled
 [15:03:05] [Server thread/INFO]: Saving the game (this may take a moment!)
 [15:03:05] [Server thread/INFO]: Saved the game
+[15:03:19] [Server thread/INFO]: Automatic saving is now enabled
+[15:03:20] [Server thread/INFO]: Unknown command
+[15:03:20] [Server thread/INFO]: [System] We just finish to make backup. Please take a fun.<--[HERE]
+[15:05:22] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[15:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13080ms or 261 ticks behind
+[15:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[15:16:52] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[15:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20017ms or 400 ticks behind
+[15:18:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6103ms or 122 ticks behind
+[15:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14821ms or 296 ticks behind
+[15:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7546ms or 150 ticks behind
+[15:19:54] [Server thread/WARN]: pura1980 moved too quickly! -63.132413362031826,14.1875,-1683.566966386607
+[15:19:57] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[15:19:57] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[15:19:57] [Server thread/INFO]: Found that there's a dragon still alive (ald['Ender Dragon'/372566, l='world', x=22.69, y=84.55, z=30.50])
+[15:19:57] [Server thread/INFO]: But we didn't have a portal, let's remove it.
+[15:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12230ms or 244 ticks behind
+[15:20:18] [Server thread/INFO]: pura1980 was slain by Enderman
+[15:20:28] [Server thread/WARN]: pura1980 moved too quickly! -63.067425810220385,14.233632006042477,-1683.3985847569043
+[15:21:17] [Server thread/INFO]: pura1980 was killed by Ender Dragon using magic
+[15:21:26] [Server thread/WARN]: pura1980 moved too quickly! -63.21576945686786,14.233632006042477,-1683.2521289441722
+[15:22:29] [Server thread/INFO]: pura1980 was slain by Enderman
+[15:22:35] [Server thread/WARN]: pura1980 moved too quickly! 146.6315481388519,-28.900001525878906,1645.9984628048223
+[15:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
+[15:23:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14578ms or 291 ticks behind
+[15:23:42] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[15:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3917ms or 78 ticks behind
+[15:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17179ms or 343 ticks behind
+[15:24:26] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[15:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12148ms or 242 ticks behind
+[15:24:56] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 30b2e2ff-103e-4cff-9c3e-bd1dfd5622d6
+[15:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10350ms or 207 ticks behind
+[15:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[15:26:22] [Server thread/WARN]: pura1980 moved too quickly! -63.262988251765535,14.233632006042477,-1683.402098037231
+[15:28:12] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:28:18] [Server thread/WARN]: pura1980 moved too quickly! 157.765916060401,-47.33485919417208,1726.199999988079
+[15:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3551ms or 71 ticks behind
+[15:28:23] [Server thread/WARN]: pura1980 moved too quickly! -61.71177279662831,14.1875,-1683.5877223099444
+[15:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10291ms or 205 ticks behind
+[15:29:36] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:29:44] [Server thread/WARN]: pura1980 moved too quickly! 221.18690584890203,-49.20781185253611,1756.9859952695367
+[15:29:44] [Server thread/WARN]: pura1980 was kicked for floating too long!
+[15:29:44] [Server thread/INFO]: pura1980 lost connection: Flying is not enabled on this server
+[15:29:44] [Server thread/INFO]: pura1980 left the game
+[15:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3434ms or 68 ticks behind
+[15:29:45] [Server thread/WARN]: handleDisconnection() called twice
+[15:29:51] [User Authenticator #3/INFO]: UUID of player pura1980 is b06fd1cb-bf81-44e9-ad8b-001e954b7932
+[15:29:51] [Server thread/INFO]: pura1980[/133.137.7.241:65128] logged in with entity id 379300 at (165.5, 32.099998474121094, 1693.5)
+[15:29:51] [Server thread/INFO]: pura1980 joined the game
+[15:30:05] [Server thread/WARN]: pura1980 moved too quickly! -63.06337464394031,14.464159374955443,-1683.1840398504887
+[15:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12019ms or 240 ticks behind
+[15:31:29] [Server thread/INFO]: pura1980 fell from a high place
+[15:31:37] [Server thread/WARN]: pura1980 moved too quickly! -63.18660497285984,14.233632006042477,-1683.224750581064
+[15:32:54] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:33:04] [Server thread/WARN]: pura1980 moved too quickly! -62.842557338779784,14.233632006042477,-1683.4491009436363
+[15:35:51] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:36:00] [Server thread/WARN]: pura1980 moved too quickly! -63.35828866389926,14.1875,-1683.572046357601
+[15:36:19] [Server thread/INFO]: pura1980 fell from a high place
+[15:36:28] [Server thread/WARN]: pura1980 moved too quickly! -63.06787442015795,14.233632006042477,-1683.277036624403
+[15:37:57] [Server thread/INFO]: pura1980 fell from a high place
+[15:37:59] [Server thread/WARN]: pura1980 moved too quickly! 197.77818576783903,-28.900001525878906,1672.805375011921
+[15:38:04] [Server thread/WARN]: pura1980 moved too quickly! -63.45218813753257,14.233632006042477,-1683.4726490580172
+[15:39:25] [Server thread/INFO]: pura1980 fell from a high place
+[15:39:27] [Server thread/WARN]: pura1980 moved too quickly! 177.55263230452016,-28.900001525878906,1659.848421020755
+[15:39:31] [Server thread/WARN]: pura1980 moved too quickly! -62.86554390329539,14.233632006042477,-1683.2443372360854
+[15:41:30] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:41:42] [Server thread/WARN]: pura1980 moved too quickly! -63.05545804772831,14.233632006042477,-1683.5015598839825
+[15:42:47] [Server thread/INFO]: pura1980 fell from a high place
+[15:44:26] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:44:35] [Server thread/WARN]: pura1980 moved too quickly! -63.23601904340893,14.233632006042477,-1683.249580126798
+[15:46:20] [Server thread/INFO]: pura1980 was killed by Ender Dragon using magic
+[15:46:27] [Server thread/WARN]: pura1980 moved too quickly! -63.25884335918843,14.233632006042477,-1683.2744284882958
+[15:47:10] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:47:17] [Server thread/WARN]: pura1980 moved too quickly! -63.19957092464497,14.233632006042477,-1683.240713334502
+[15:48:24] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:48:31] [Server thread/WARN]: pura1980 moved too quickly! -62.907428861612374,14.233632006042477,-1683.4412886193013
+[15:50:12] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:50:30] [Server thread/WARN]: pura1980 moved too quickly! -63.0682344258656,14.233632006042477,-1683.4180933551663
+[15:50:56] [Server thread/INFO]: pura1980 fell from a high place
+[15:51:03] [Server thread/WARN]: pura1980 moved too quickly! -61.751964027041794,14.233632006042477,-1683.2580756731684
+[15:51:53] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:52:00] [Server thread/WARN]: pura1980 moved too quickly! -63.324436490487244,14.233632006042477,-1683.2957911906158
+[15:53:09] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:53:12] [Server thread/WARN]: pura1980 moved too quickly! 236.55272800412007,-57.84400649462812,1678.4153367133697
+[15:53:16] [Server thread/WARN]: pura1980 moved too quickly! -63.52787009257827,14.233632006042477,-1683.2590493646123
+[15:54:48] [Server thread/INFO]: pura1980 was slain by Enderman
+[15:54:55] [Server thread/WARN]: Aborting charge player as no target was set.
+[15:54:55] [Server thread/WARN]: pura1980 moved too quickly! -62.61694189191965,14.233632006042477,-1683.2772970619712
+[15:55:43] [Server thread/INFO]: pura1980 was slain by Enderman
+[15:55:50] [Server thread/WARN]: pura1980 moved too quickly! -63.42932114084883,14.233632006042477,-1683.4782436066203
+[15:57:06] [Server thread/INFO]: pura1980 fell from a high place
+[15:57:13] [Server thread/WARN]: pura1980 moved too quickly! -63.256011307415065,14.233632006042477,-1683.4145625661142
+[15:57:39] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[15:57:45] [Server thread/WARN]: pura1980 moved too quickly! -62.95495793851342,14.233632006042477,-1683.4013002348074
+[15:58:15] [Server thread/INFO]: pura1980 fell from a high place
+[15:58:17] [Server thread/WARN]: pura1980 moved too quickly! 139.6274801026955,-29.900001525878906,1697.6303319659535
+[15:58:21] [Server thread/WARN]: pura1980 moved too quickly! -62.959206688721025,14.233632006042477,-1683.3163521326082
+[15:59:14] [Server thread/INFO]: pura1980 was slain by Enderman
+[15:59:16] [Server thread/WARN]: pura1980 moved too quickly! 130.27467764132479,-28.900001525878906,1665.498869814069
+[15:59:20] [Server thread/WARN]: pura1980 moved too quickly! -63.087741486435135,14.233632006042477,-1683.4872599143712
+[16:00:27] [Server thread/INFO]: pura1980 fell from a high place
+[16:00:29] [Server thread/WARN]: pura1980 moved too quickly! 126.12478814929847,-27.900001525878906,1643.8702171526315
+[16:00:33] [Server thread/WARN]: pura1980 moved too quickly! -63.193172963570504,14.233632006042477,-1683.4196460188587
+[16:01:17] [Server thread/INFO]: pura1980 was killed by Ender Dragon using magic
+[16:01:20] [Server thread/WARN]: pura1980 moved too quickly! 123.0028905062415,-27.900001525878906,1701.0645329085696
+[16:01:24] [Server thread/WARN]: pura1980 moved too quickly! -63.25184059016556,14.233632006042477,-1683.4975529785488
+[16:01:46] [Server thread/INFO]: pura1980 was slain by Ender Dragon
+[16:01:48] [Server thread/WARN]: pura1980 moved too quickly! 92.44594790376888,-35.273460633869846,1699.1922319474847
+[16:01:52] [Server thread/WARN]: Skipping player strafe phase because no player was found
+[16:01:53] [Server thread/WARN]: pura1980 moved too quickly! -63.262221583280535,14.233632006042477,-1683.3078075223232
+[16:03:03] [Server thread/INFO]: [Server] [System] We take backup of this server soon. 10 seconds left.
+[16:03:04] [Server thread/INFO]: Automatic saving is now disabled
+[16:03:04] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:03:04] [Server thread/INFO]: Saved the game
+[16:03:13] [Server thread/INFO]: pura1980 was slain by Enderman
