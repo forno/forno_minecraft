@@ -524,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2019-02-20 16:20:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-02-16 17:10:12 +0000"
