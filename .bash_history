@@ -22,3 +22,21 @@ git s
 git status
 ls
 exit
+ls
+java -jar forge-1.13.2-25.0.45-installer.jar nogui --installServer
+java -jar forge-1.13.2-25.0.45-installer.jar nogui --installServer
+ls
+ll
+exit
+rm -rf *
+ls
+exit
+ls
+exit
+ls
+cd forno/
+ls
+ls
+cp /tmp/forge-1.13.2-25.0.45-* .
+ls
+exit
