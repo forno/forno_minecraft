@@ -8,7 +8,7 @@
 # hlsearch on (H) or off (h):
 ~H
 # Last Search Pattern:
-~MSle0~/10
+~MSle0~/time
 
 # Command Line History (newest to oldest):
 :x
@@ -16,6 +16,8 @@
 :q
 
 # Search String History (newest to oldest):
+?/time
+?/timer
 ?/10
 ?/20
 
@@ -27,111 +29,75 @@
 
 # Registers:
 ""-	CHAR	0
-	10
+	60000
 
 # File marks:
-'0  21  12  ~/cirkit/server.properties
-'1  21  13  ~/ichika_souya/server.properties
-'2  22  0  ~/cirkit/server.properties
-'3  40  0  ~/animare/server.properties
+'0  4  15  ~/ichika_souya/server.properties
+'1  4  15  ~/animare/server.properties
+'2  21  12  ~/cirkit/server.properties
+'3  21  13  ~/ichika_souya/server.properties
+'4  22  0  ~/cirkit/server.properties
+'5  40  0  ~/animare/server.properties
 
 # Jumplist (newest first):
+-'  4  15  ~/ichika_souya/server.properties
+-'  21  0  ~/ichika_souya/server.properties
+-'  4  15  ~/animare/server.properties
+-'  41  0  ~/animare/server.properties
+-'  40  0  ~/animare/server.properties
 -'  21  12  ~/cirkit/server.properties
 -'  30  14  ~/cirkit/server.properties
 -'  23  0  ~/cirkit/server.properties
 -'  22  0  ~/cirkit/server.properties
--'  21  13  ~/ichika_souya/server.properties
 -'  1  0  ~/ichika_souya/server.properties
 -'  2  25  ~/cirkit/server.properties
 -'  1  0  ~/cirkit/server.properties
--'  40  0  ~/animare/server.properties
 -'  32  8  ~/animare/server.properties
 -'  1  0  ~/animare/server.properties
+-'  21  12  ~/cirkit/server.properties
+-'  30  14  ~/cirkit/server.properties
+-'  23  0  ~/cirkit/server.properties
+-'  22  0  ~/cirkit/server.properties
+-'  2  25  ~/cirkit/server.properties
+-'  1  0  ~/cirkit/server.properties
+-'  4  15  ~/animare/server.properties
+-'  41  0  ~/animare/server.properties
 -'  40  0  ~/animare/server.properties
+-'  21  12  ~/cirkit/server.properties
+-'  30  14  ~/cirkit/server.properties
+-'  23  0  ~/cirkit/server.properties
+-'  22  0  ~/cirkit/server.properties
+-'  2  25  ~/cirkit/server.properties
+-'  1  0  ~/cirkit/server.properties
 -'  32  8  ~/animare/server.properties
 -'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  21  13  ~/ichika_souya/server.properties
--'  1  0  ~/ichika_souya/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
--'  32  8  ~/animare/server.properties
--'  1  0  ~/animare/server.properties
--'  40  0  ~/animare/server.properties
+-'  21  12  ~/cirkit/server.properties
+-'  30  14  ~/cirkit/server.properties
+-'  23  0  ~/cirkit/server.properties
+-'  22  0  ~/cirkit/server.properties
+-'  2  25  ~/cirkit/server.properties
+-'  1  0  ~/cirkit/server.properties
 
 # History of marks within files (newest to oldest):
+
+> ~/ichika_souya/server.properties
+	"	4	15
+	^	4	16
+	.	4	15
+	+	21	13
+	+	4	15
+
+> ~/animare/server.properties
+	"	4	15
+	^	4	16
+	.	4	15
+	+	41	8
+	+	3	17
+	+	21	13
+	+	4	15
 
 > ~/cirkit/server.properties
 	"	21	12
 	^	21	13
 	.	21	12
 	+	21	12
-
-> ~/ichika_souya/server.properties
-	"	21	13
-	^	21	14
-	.	21	13
-	+	21	13
-
-> ~/animare/server.properties
-	"	40	0
-	^	21	14
-	.	21	13
-	+	41	8
-	+	3	17
-	+	21	13
