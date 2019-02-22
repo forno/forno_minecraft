@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-22 14:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-02-21 14:40:45 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-02-22 11:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-22 14:27:21 +0000"
     },
     "done": true
   },
@@ -304,7 +316,8 @@
       "cooked_porkchop": "2019-02-22 11:08:25 +0000",
       "cooked_mutton": "2019-02-22 13:58:20 +0000",
       "cooked_beef": "2019-02-21 13:15:19 +0000",
-      "bread": "2019-02-22 12:09:30 +0000"
+      "bread": "2019-02-22 12:09:30 +0000",
+      "cooked_salmon": "2019-02-22 14:13:18 +0000"
     },
     "done": false
   },
@@ -446,6 +459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-02-22 14:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_at_least_9_emerald": "2019-02-22 12:05:32 +0000"
@@ -500,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-02-22 14:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2019-02-21 14:50:19 +0000",
@@ -528,6 +553,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-02-21 14:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-22 14:27:21 +0000"
     },
     "done": true
   },
@@ -746,6 +777,7 @@
       "minecraft:skeleton": "2019-02-22 11:30:09 +0000",
       "minecraft:phantom": "2019-02-22 14:02:39 +0000",
       "minecraft:zombie": "2019-02-22 11:21:59 +0000",
+      "minecraft:creeper": "2019-02-22 14:10:33 +0000",
       "minecraft:drowned": "2019-02-22 13:59:06 +0000"
     },
     "done": false
@@ -879,6 +911,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-02-22 11:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-02-22 14:59:55 +0000"
     },
     "done": true
   },
@@ -1518,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-02-22 14:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-02-22 11:38:32 +0000"
@@ -1527,6 +1571,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-02-22 11:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-02-22 14:27:21 +0000"
     },
     "done": true
   },
