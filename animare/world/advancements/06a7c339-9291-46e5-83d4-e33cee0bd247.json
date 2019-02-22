@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-02-22 13:57:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2019-02-22 12:05:32 +0000"
@@ -296,6 +302,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-02-22 11:08:25 +0000",
+      "cooked_mutton": "2019-02-22 13:58:20 +0000",
       "cooked_beef": "2019-02-21 13:15:19 +0000",
       "bread": "2019-02-22 12:09:30 +0000"
     },
@@ -379,13 +386,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-02-21 14:44:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-02-21 14:44:37 +0000"
     },
@@ -710,13 +717,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-02-22 12:47:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-02-22 12:47:18 +0000"
     },
@@ -737,7 +744,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-02-22 11:30:09 +0000",
-      "minecraft:zombie": "2019-02-22 11:21:59 +0000"
+      "minecraft:phantom": "2019-02-22 14:02:39 +0000",
+      "minecraft:zombie": "2019-02-22 11:21:59 +0000",
+      "minecraft:drowned": "2019-02-22 13:59:06 +0000"
     },
     "done": false
   },
@@ -1325,8 +1334,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-02-22 11:40:15 +0000",
       "minecraft:forest": "2019-02-22 09:51:07 +0000",
+      "minecraft:mountains": "2019-02-22 11:40:15 +0000",
       "minecraft:birch_forest": "2019-02-21 12:14:00 +0000",
       "minecraft:beach": "2019-02-21 13:18:00 +0000",
       "minecraft:river": "2019-02-21 13:18:07 +0000",
@@ -1416,6 +1425,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-02-21 13:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-02-22 14:01:22 +0000"
     },
     "done": true
   },
