@@ -553,6 +553,7 @@
       "minecraft:skeleton": "2019-02-13 16:01:48 +0000",
       "minecraft:phantom": "2019-02-13 16:02:49 +0000",
       "minecraft:witch": "2019-02-21 18:03:42 +0000",
+      "minecraft:husk": "2019-02-22 15:37:10 +0000",
       "minecraft:spider": "2019-02-12 20:39:38 +0000",
       "minecraft:zombie": "2019-02-16 13:49:43 +0000",
       "minecraft:creeper": "2019-02-16 13:55:27 +0000",
@@ -1002,6 +1003,7 @@
       "minecraft:giant_tree_taiga": "2019-02-16 21:42:22 +0000",
       "minecraft:deep_cold_ocean": "2019-02-12 20:30:09 +0000",
       "minecraft:taiga_hills": "2019-02-17 10:56:25 +0000",
+      "minecraft:desert": "2019-02-22 15:10:30 +0000",
       "minecraft:deep_frozen_ocean": "2019-02-17 10:33:00 +0000",
       "minecraft:birch_forest": "2019-02-12 20:27:23 +0000",
       "minecraft:warm_ocean": "2019-02-12 20:25:00 +0000",
@@ -1143,6 +1145,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-02-12 20:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2019-02-22 15:25:08 +0000"
     },
     "done": true
   },
